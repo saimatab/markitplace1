@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="SmokeTestSuite">
+	<listeners>
+		<listener class-name="resources.listeners" />
+		<listener class-name="resources.CustomTestNGReporter" />
+		<listener class-name="resources.ExtentReporterNG" />
+	</listeners>
+	<test name="Validate Smoke Tests">
+
+
+		<parameter name="url"
+			value="http://markitplace-qa.arpatech.com/" />
+		<parameter name="punchout"
+			value="http://markitplace-qa.arpatech.com/auth/login?buyercookie=BUS033.LFH.20180402edit01" />
+
+		<parameter name="CA"
+			value="http://markitplace-qa.arpatech.com/track/comparative-analysis?accountCode=MAI005" />
+
+		<parameter name="username1"
+			value="arpatech_ag_puchaser@connection.com" />
+		<parameter name="pswd1" value="[6D.,58Nq%4{rSu" />
+	
+		<parameter name="username3" value="arpatech1@connection.com" />
+		<parameter name="pswd3" value="Arp@tech5" />
+
+
+		<parameter name="username4" value="ACC003CC@connection.com" />
+		<parameter name="pswd4" value="8[&lt;#,HuK" />
+		<parameter name="username5"
+			value="arpatech-qa@connection.com" />
+		<parameter name="pswd5" value="Y/ShFCc?(v9;STU9" />
+
+		<parameter name="usernme6"
+			value="arpatech-qa@connection.com" />
+		<parameter name="pswd6" value="Y/ShFCc?(v9;STU9" />
+
+		<parameter name="username7"
+			value="arpatech_ag_approver@connection.com" />
+		<parameter name="pswd7" value="Q7#[qK~7B.MNrru@" />
+
+		<classes>
+
+
+
+			<class name="tests.SmokeTestsSuite3" />
+
+
+		</classes>
+	</test>
+</suite> <!-- Suite -->

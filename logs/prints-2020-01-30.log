@@ -1,0 +1,446 @@
+09:34:59.130 [main] INFO  resources.base - User have reached the  Calendar page after clicking on the Calendar button from the header of the page
+09:35:22.731 [main] INFO  resources.base - User has clicked on the Saved Report icon from the header of the page
+09:35:22.758 [main] INFO  resources.base - User have reached the  Saved Report page after clicking on the Saved Report icon from the header of the page
+09:35:28.238 [main] INFO  resources.base - user is searching printer using the search textbox
+09:36:14.700 [main] INFO  resources.base - User Have Successfully reached the Compare page
+09:55:11.713 [main] INFO  resources.base - User Have Successfully Login To The Home Page
+09:55:17.194 [main] INFO  resources.base - user is searching printer using the search textbox
+09:56:03.213 [main] INFO  resources.base - User Have Successfully reached the Compare page
+09:57:46.789 [main] INFO  resources.base - User Have Successfully Login To The Home Page
+09:57:52.249 [main] INFO  resources.base - user is searching printer using the search textbox
+09:58:37.808 [main] INFO  resources.base - User Have Successfully reached the Compare page
+10:02:00.294 [main] INFO  resources.base - User Have Successfully Login To The Home Page
+10:02:06.574 [main] INFO  resources.base - user is searching printer using the search textbox
+10:02:54.462 [main] INFO  resources.base - User Have Successfully reached the Compare page
+10:04:14.310 [main] ERROR resources.base - Search Result not displaying
+10:04:14.311 [main] ERROR resources.base - expected [Hp Laptop - MarkITplace] but found [HP Laptop - MarkITplace]
+10:08:59.836 [main] INFO  resources.base - User Have Successfully Login To The Home Page
+10:09:08.009 [main] INFO  resources.base - user is searching printer using the search textbox
+10:09:18.093 [main] INFO  resources.base - Compare Page not reached
+10:10:35.173 [main] ERROR resources.base - Search Result not displaying
+10:10:35.173 [main] ERROR resources.base - expected [Hp Laptop - MarkITplace] but found [HP Laptop - MarkITplace]
+10:21:40.493 [main] ERROR resources.base - Search Result not displaying
+10:21:40.497 [main] ERROR resources.base - expected [Hp Laptop - MarkITplace] but found [HP Laptop - MarkITplace]
+10:29:59.833 [main] ERROR resources.base - Search Result not displaying
+10:29:59.835 [main] ERROR resources.base - expected [Hp Laptop - MarkITplace] but found [HP Laptop - MarkITplace]
+10:36:21.235 [main] ERROR resources.base - Search Result not displaying
+10:36:21.239 [main] ERROR resources.base - expected [Hp Laptop - MarkITplace] but found [HP Laptop - MarkITplace]
+12:35:51.688 [main] INFO  resources.base - User has Mouse hover on My Account Icon in the header
+12:35:58.992 [main] INFO  resources.base - User has clicked on the My Profile page from My Account dropdown
+12:36:16.387 [main] INFO  resources.base - User has clicked Edit Profile button
+13:02:56.950 [main] INFO  resources.base - User has Mouse hover on My Account Icon in the header
+13:03:03.990 [main] INFO  resources.base - User has clicked on the My Profile page from My Account dropdown
+13:03:20.855 [main] INFO  resources.base - User has clicked Edit Profile button
+13:03:39.258 [main] INFO  resources.base - User has Mouse hover on My Account Icon in the header 2nd time
+13:03:46.077 [main] INFO  resources.base - User has clicked on the My Profile page from My Account dropdown 2nd time
+15:50:08.520 [main] INFO  resources.base - User has Mouse hover on My Account Icon in the header
+15:50:13.629 [main] INFO  resources.base - User has clicked on the My Profile page from My Account dropdown
+16:38:26.266 [main] INFO  resources.base - User has Mouse hover on My Account Icon in the header
+16:38:33.195 [main] INFO  resources.base - User has clicked on the My Profile page from My Account dropdown
+16:47:00.747 [main] INFO  resources.base - User has Mouse hover on My Account Icon in the header
+16:47:07.565 [main] INFO  resources.base - User has clicked on the My Profile page from My Account dropdown
+16:47:24.568 [main] INFO  resources.base - User has clicked Edit Profile button
+13:28:58.565 [main] INFO  resources.base - User Have Successfully Login To The Home Page
+13:29:03.903 [main] INFO  resources.base - User Have Successfully reached the favorites Page
+13:29:30.442 [main] INFO  resources.base - user is searching printer using the search textbox
+13:29:30.472 [main] INFO  resources.base - User Have Successfully reached the printer search listing page
+13:29:45.600 [main] INFO  resources.base - Search result data is Appearing on the Search Result Page
+13:31:31.370 [main] INFO  resources.base - User has clicked the Logo from the footer of the page
+13:31:31.569 [main] INFO  resources.base - User Have reached the Home Page clicking on the footer Logo
+13:31:58.803 [main] INFO  resources.base - User has clicked on the My Profile page from My Account dropdown
+13:31:58.825 [main] INFO  resources.base - User has clicked on the My Profile page from My Account dropdown
+13:32:17.499 [main] INFO  resources.base - User has clicked on the My Profile page from My Account dropdown
+13:32:32.574 [main] INFO  resources.base - User has clicked the Logo from the header of the page
+13:32:32.588 [main] INFO  resources.base - User Have reached the Home Page clicking on the Header Logo
+13:32:52.306 [main] INFO  resources.base - User has clicked on the Standard Catalog Navigation button from header
+13:32:52.339 [main] INFO  resources.base - User Have reached the Standard Catalog Page
+13:33:59.688 [main] INFO  resources.base - User has clicked on Audio Cables Category From All Products Page
+13:33:59.720 [main] INFO  resources.base - User Have reached the Audio Cables Category Page
+13:34:11.916 [main] INFO  resources.base - User has clicked on Resouces link from the header
+13:34:11.965 [main] INFO  resources.base - User Have reached the Resources Page
+13:34:41.811 [main] INFO  resources.base - User has clicked on Special Offer Link from the header
+13:34:41.825 [main] INFO  resources.base - User Have reached the Special Offer Page
+13:34:54.621 [main] INFO  resources.base - User has clicked on Cart Icon from the header
+13:34:54.635 [main] INFO  resources.base - User Have reached the Shopping Cart Page
+13:36:18.582 [main] INFO  resources.base - element not interactable
+  (Session info: chrome=79.0.3945.117)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ARP-260', ip: '10.0.75.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 79.0.3945.117, chrome: {chromedriverVersion: 78.0.3904.70 (edb9c9f3de024..., userDataDir: C:\Users\SAIMA~1.TAB\AppDat...}, goog:chromeOptions: {debuggerAddress: localhost:53490}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 74a4443f8bccf7a699aff43a007bc15d
+13:36:23.597 [main] INFO  resources.base - User have reached the order confirmation page after placing the order
+13:36:31.190 [main] INFO  resources.base - User has clicked the Logo from the header of the page
+13:36:41.207 [main] INFO  resources.base - User Have reached the Home Page clicking on the Header Logo
+13:36:47.809 [main] INFO  resources.base - User has clicked the Logo from the footer of the page
+13:36:47.932 [main] INFO  resources.base - User Have reached the Home Page clicking on the footer Logo
+13:37:22.987 [main] INFO  resources.base - User has clicked on the All product Link from the footer of the page
+13:37:33.029 [main] INFO  resources.base - User Have reached the All Product page after clicking on the Standard Catalog Link from the footer of the page
+13:37:44.108 [main] INFO  resources.base - User has clicked on the resources  Link from the footer of the page
+13:37:59.275 [main] INFO  resources.base - User Have reached the resources page after clicking on the resources Link from the footer of the page
+13:38:08.705 [main] INFO  resources.base - User has clicked on the Special offer Link from the footer of the page
+13:38:18.734 [main] INFO  resources.base - User Have reached the Special offer after clicking on the Special offer Link from the footer of the page
+13:38:25.030 [main] INFO  resources.base - User has clicked on the Special offer Link from the footer of the page
+13:38:35.054 [main] INFO  resources.base - User Have reached the Favorites after clicking on the Favorites Link from the footer of the page
+13:38:50.291 [main] INFO  resources.base - User has clicked on the Track button from the header of the page
+13:38:50.703 [main] INFO  resources.base - User have reached the Track page after clicking on the Track button from the header of the page
+13:38:55.331 [main] INFO  resources.base - User has clicked on the order button from the header of the page
+13:39:05.358 [main] INFO  resources.base - User have reached the Order page after clicking on the Order button from the header of the page
+13:40:19.187 [main] INFO  resources.base - aaaaae
+13:40:46.081 [main] INFO  resources.base - User has clicked on the Calendar button from the header of the page
+13:40:46.106 [main] INFO  resources.base - User have reached the  Calendar page after clicking on the Calendar button from the header of the page
+13:41:19.425 [main] INFO  resources.base - User has clicked on the Saved Report icon from the header of the page
+13:41:19.451 [main] INFO  resources.base - User have reached the  Saved Report page after clicking on the Saved Report icon from the header of the page
+13:41:24.915 [main] INFO  resources.base - user is searching printer using the search textbox
+13:42:13.642 [main] INFO  resources.base - User Have Successfully reached the Compare page
+16:04:51.796 [main] INFO  resources.base - User Have Successfully Login To The Home Page
+16:04:57.192 [main] INFO  resources.base - User Have Successfully reached the favorites Page
+16:05:24.031 [main] INFO  resources.base - user is searching printer using the search textbox
+16:05:24.064 [main] INFO  resources.base - User Have Successfully reached the printer search listing page
+16:05:39.212 [main] INFO  resources.base - Search result data is Appearing on the Search Result Page
+16:07:35.657 [main] INFO  resources.base - Recently Viewed Page is Opened
+16:07:42.766 [main] INFO  resources.base - User has clicked the Logo from the footer of the page
+16:07:42.780 [main] INFO  resources.base - User Have reached the Home Page clicking on the footer Logo
+16:08:10.858 [main] INFO  resources.base - User has clicked on the My Profile page from My Account dropdown
+16:08:10.879 [main] INFO  resources.base - User has clicked on the My Profile page from My Account dropdown
+16:08:31.354 [main] INFO  resources.base - User has clicked on the My Profile page from My Account dropdown
+16:08:46.859 [main] INFO  resources.base - User has clicked the Logo from the header of the page
+16:08:46.887 [main] INFO  resources.base - User Have reached the Home Page clicking on the Header Logo
+16:09:07.546 [main] INFO  resources.base - User has clicked on the Standard Catalog Navigation button from header
+16:09:07.608 [main] INFO  resources.base - User Have reached the Standard Catalog Page
+16:10:13.581 [main] INFO  resources.base - User has clicked on Audio Cables Category From All Products Page
+16:10:13.613 [main] INFO  resources.base - User Have reached the Audio Cables Category Page
+16:10:25.558 [main] INFO  resources.base - User has clicked on Resouces link from the header
+16:10:25.601 [main] INFO  resources.base - User Have reached the Resources Page
+16:10:55.493 [main] INFO  resources.base - User has clicked on Special Offer Link from the header
+16:10:55.507 [main] INFO  resources.base - User Have reached the Special Offer Page
+16:11:08.560 [main] INFO  resources.base - User has clicked on Cart Icon from the header
+16:11:08.574 [main] INFO  resources.base - User Have reached the Shopping Cart Page
+16:12:32.546 [main] INFO  resources.base - element not interactable
+  (Session info: chrome=79.0.3945.117)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ARP-260', ip: '10.0.75.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 79.0.3945.117, chrome: {chromedriverVersion: 78.0.3904.70 (edb9c9f3de024..., userDataDir: C:\Users\SAIMA~1.TAB\AppDat...}, goog:chromeOptions: {debuggerAddress: localhost:49186}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 2caf039ea6d7141498ab1a47c462f0e0
+16:12:37.559 [main] INFO  resources.base - User have reached the order confirmation page after placing the order
+16:12:44.183 [main] INFO  resources.base - User has clicked the Logo from the header of the page
+16:12:54.216 [main] INFO  resources.base - User Have reached the Home Page clicking on the Header Logo
+16:13:00.687 [main] INFO  resources.base - User has clicked the Logo from the footer of the page
+16:13:00.937 [main] INFO  resources.base - User Have reached the Home Page clicking on the footer Logo
+16:13:35.998 [main] INFO  resources.base - User has clicked on the All product Link from the footer of the page
+16:13:46.025 [main] INFO  resources.base - User Have reached the All Product page after clicking on the Standard Catalog Link from the footer of the page
+16:13:56.888 [main] INFO  resources.base - User has clicked on the resources  Link from the footer of the page
+16:14:12.043 [main] INFO  resources.base - User Have reached the resources page after clicking on the resources Link from the footer of the page
+16:14:22.197 [main] INFO  resources.base - User has clicked on the Special offer Link from the footer of the page
+16:14:32.228 [main] INFO  resources.base - User Have reached the Special offer after clicking on the Special offer Link from the footer of the page
+16:14:38.701 [main] INFO  resources.base - User has clicked on the Special offer Link from the footer of the page
+16:14:48.719 [main] INFO  resources.base - User Have reached the Favorites after clicking on the Favorites Link from the footer of the page
+16:14:56.107 [main] INFO  resources.base - User has clicked on the Track button from the header of the page
+16:14:56.516 [main] INFO  resources.base - User have reached the Track page after clicking on the Track button from the header of the page
+16:15:00.945 [main] INFO  resources.base - User has clicked on the order button from the header of the page
+16:15:10.965 [main] INFO  resources.base - User have reached the Order page after clicking on the Order button from the header of the page
+16:16:26.479 [main] INFO  resources.base - aaaaae
+16:16:54.173 [main] INFO  resources.base - User has clicked on the Calendar button from the header of the page
+16:16:54.228 [main] INFO  resources.base - User have reached the  Calendar page after clicking on the Calendar button from the header of the page
+16:17:35.480 [main] INFO  resources.base - User has clicked on the Saved Report icon from the header of the page
+16:17:35.505 [main] INFO  resources.base - User have reached the  Saved Report page after clicking on the Saved Report icon from the header of the page
+16:17:41.233 [main] INFO  resources.base - user is searching printer using the search textbox
+16:18:30.942 [main] INFO  resources.base - User Have Successfully reached the Compare page
+17:09:45.805 [main] ERROR resources.base - Search Result not displaying
+17:09:45.808 [main] ERROR resources.base - expected [Hp Laptop - MarkITplace] but found [HP Laptop - MarkITplace]
+17:17:29.363 [main] ERROR resources.base - Search Result not displaying
+17:17:29.366 [main] ERROR resources.base - expected [Hp Laptop - MarkITplace] but found [HP Laptop - MarkITplace]
+17:22:27.010 [main] ERROR resources.base - Search Result not displaying
+17:22:27.013 [main] ERROR resources.base - expected [Hp Laptop - MarkITplace] but found [HP Laptop - MarkITplace]
+17:25:00.966 [main] ERROR resources.base - Search Result not displaying
+17:25:00.970 [main] ERROR resources.base - expected [Hp Laptop - MarkITplace] but found [HP Laptop - MarkITplace]
+18:01:14.914 [main] ERROR resources.base - Search Result not displaying
+18:01:14.917 [main] ERROR resources.base - expected [Hp Laptop - MarkITplace] but found [HP Laptop - MarkITplace]
+18:04:16.522 [main] ERROR resources.base - Search Result not displaying
+18:04:16.524 [main] ERROR resources.base - expected [Hp Laptop - MarkITplace] but found [HP Laptop - MarkITplace]
+18:06:51.990 [main] ERROR resources.base - Search Result not displaying
+18:06:51.993 [main] ERROR resources.base - expected [Hp Laptop - MarkITplace] but found [HP Laptop - MarkITplace]
+08:50:50.157 [main] ERROR resources.base - Search Result not displaying
+08:50:50.161 [main] ERROR resources.base - expected [Hp Laptop - MarkITplace] but found [HP Laptop - MarkITplace]
+09:56:39.248 [main] INFO  resources.base - User Have Successfully Login To The Home Page
+09:56:51.500 [main] INFO  resources.base - User Have Successfully reached the favorites Page
+09:57:17.081 [main] INFO  resources.base - user is searching printer using the search textbox
+09:57:17.115 [main] INFO  resources.base - User Have Successfully reached the printer search listing page
+09:57:32.230 [main] INFO  resources.base - Search result data is Appearing on the Search Result Page
+10:04:23.510 [main] INFO  resources.base - Recently Viewed Page is Opened
+10:04:31.840 [main] INFO  resources.base - User has clicked the Logo from the footer of the page
+10:04:31.849 [main] INFO  resources.base - User Have reached the Home Page clicking on the footer Logo
+10:04:59.791 [main] INFO  resources.base - User has clicked on the My Profile page from My Account dropdown
+10:04:59.810 [main] INFO  resources.base - User has clicked on the My Profile page from My Account dropdown
+10:05:21.198 [main] INFO  resources.base - User has clicked on the My Profile page from My Account dropdown
+10:05:37.373 [main] INFO  resources.base - User has clicked the Logo from the header of the page
+10:05:37.383 [main] INFO  resources.base - User Have reached the Home Page clicking on the Header Logo
+10:05:58.827 [main] INFO  resources.base - User has clicked on the Standard Catalog Navigation button from header
+10:05:58.924 [main] INFO  resources.base - User Have reached the Standard Catalog Page
+10:07:11.283 [main] INFO  resources.base - User has clicked on Audio Cables Category From All Products Page
+10:07:11.307 [main] INFO  resources.base - User Have reached the Audio Cables Category Page
+10:07:24.492 [main] INFO  resources.base - User has clicked on Resouces link from the header
+10:07:24.526 [main] INFO  resources.base - User Have reached the Resources Page
+10:07:55.412 [main] INFO  resources.base - User has clicked on Special Offer Link from the header
+10:07:55.439 [main] INFO  resources.base - User Have reached the Special Offer Page
+10:08:08.059 [main] INFO  resources.base - User has clicked on Cart Icon from the header
+10:08:08.075 [main] INFO  resources.base - User Have reached the Shopping Cart Page
+10:08:36.731 [main] INFO  resources.base - User has clicked the Logo from the header of the page
+10:08:46.747 [main] INFO  resources.base - User Have reached the Home Page clicking on the Header Logo
+10:08:54.061 [main] INFO  resources.base - User has clicked the Logo from the footer of the page
+10:08:54.162 [main] INFO  resources.base - User Have reached the Home Page clicking on the footer Logo
+10:09:36.005 [main] INFO  resources.base - User has clicked on the All product Link from the footer of the page
+10:09:46.036 [main] INFO  resources.base - User Have reached the All Product page after clicking on the Standard Catalog Link from the footer of the page
+10:09:57.995 [main] INFO  resources.base - User has clicked on the resources  Link from the footer of the page
+10:10:13.059 [main] INFO  resources.base - User Have reached the resources page after clicking on the resources Link from the footer of the page
+10:10:18.165 [main] INFO  resources.base - User has clicked on the Special offer Link from the footer of the page
+10:10:28.172 [main] ERROR resources.base - User have not reached the Special offer page after clicking on the Special offer Link from the footer of the page
+10:10:28.172 [main] ERROR resources.base - expected [Special Offers - MarkITplace] but found [Resources - MarkITplace]
+10:10:33.291 [main] INFO  resources.base - User has clicked on the Track button from the header of the page
+10:10:33.297 [main] ERROR resources.base - User have not reached the Track page after clicking on the Track button from the header of the page
+10:10:33.297 [main] ERROR resources.base - expected [Track Dashboard - MarkITplace] but found [Resources - MarkITplace]
+10:10:38.376 [main] INFO  resources.base - User has clicked on the order button from the header of the page
+10:10:48.384 [main] ERROR resources.base - User have not reached the order page after clicking on the Order button from the header of the page
+10:10:48.384 [main] ERROR resources.base - expected [Orders - MarkITplace] but found [Resources - MarkITplace]
+10:11:28.996 [main] INFO  resources.base - User has clicked on the Calendar button from the header of the page
+10:11:29.015 [main] ERROR resources.base - User have not reached the Calendar page after clicking on the Calendar button from the header of the page
+10:11:29.015 [main] ERROR resources.base - expected [Calendar Monthly View - MarkITplace] but found [Resources - MarkITplace]
+10:11:32.168 [main] INFO  resources.base - user is searching printer using the search textbox
+10:11:42.203 [main] INFO  resources.base - Compare Page not reached
+10:14:03.816 [main] INFO  resources.base - User Have Successfully Login To The Home Page
+10:14:09.207 [main] INFO  resources.base - User Have Successfully reached the favorites Page
+10:14:32.220 [main] INFO  resources.base - user is searching printer using the search textbox
+10:14:32.277 [main] INFO  resources.base - User Have Successfully reached the printer search listing page
+10:14:47.405 [main] INFO  resources.base - Search result data is Appearing on the Search Result Page
+10:21:38.093 [main] INFO  resources.base - Recently Viewed Page is Opened
+10:21:46.201 [main] INFO  resources.base - User has clicked the Logo from the footer of the page
+10:21:46.214 [main] INFO  resources.base - User Have reached the Home Page clicking on the footer Logo
+10:22:13.812 [main] INFO  resources.base - User has clicked on the My Profile page from My Account dropdown
+10:22:13.829 [main] INFO  resources.base - User has clicked on the My Profile page from My Account dropdown
+10:22:33.577 [main] INFO  resources.base - User has clicked on the My Profile page from My Account dropdown
+10:22:48.652 [main] INFO  resources.base - User has clicked the Logo from the header of the page
+10:22:48.660 [main] INFO  resources.base - User Have reached the Home Page clicking on the Header Logo
+10:23:08.632 [main] INFO  resources.base - User has clicked on the Standard Catalog Navigation button from header
+10:23:08.668 [main] INFO  resources.base - User Have reached the Standard Catalog Page
+10:24:10.390 [main] INFO  resources.base - User has clicked on Audio Cables Category From All Products Page
+10:24:10.424 [main] INFO  resources.base - User Have reached the Audio Cables Category Page
+10:24:20.920 [main] INFO  resources.base - User has clicked on Resouces link from the header
+10:24:20.964 [main] INFO  resources.base - User Have reached the Resources Page
+10:24:50.603 [main] INFO  resources.base - User has clicked on Special Offer Link from the header
+10:24:50.634 [main] INFO  resources.base - User Have reached the Special Offer Page
+10:25:01.925 [main] INFO  resources.base - User has clicked on Cart Icon from the header
+10:25:01.938 [main] INFO  resources.base - User Have reached the Shopping Cart Page
+10:25:29.298 [main] INFO  resources.base - User has clicked the Logo from the header of the page
+10:25:39.322 [main] INFO  resources.base - User Have reached the Home Page clicking on the Header Logo
+10:25:45.449 [main] INFO  resources.base - User has clicked the Logo from the footer of the page
+10:25:45.644 [main] INFO  resources.base - User Have reached the Home Page clicking on the footer Logo
+10:26:20.187 [main] INFO  resources.base - User has clicked on the All product Link from the footer of the page
+10:26:30.211 [main] INFO  resources.base - User Have reached the All Product page after clicking on the Standard Catalog Link from the footer of the page
+10:26:39.676 [main] INFO  resources.base - User has clicked on the resources  Link from the footer of the page
+10:26:54.687 [main] INFO  resources.base - User Have reached the resources page after clicking on the resources Link from the footer of the page
+10:27:04.085 [main] INFO  resources.base - User has clicked on the Special offer Link from the footer of the page
+10:27:14.093 [main] INFO  resources.base - User Have reached the Special offer after clicking on the Special offer Link from the footer of the page
+10:27:20.116 [main] INFO  resources.base - User has clicked on the Special offer Link from the footer of the page
+10:27:30.129 [main] INFO  resources.base - User Have reached the Favorites after clicking on the Favorites Link from the footer of the page
+10:27:38.067 [main] INFO  resources.base - User has clicked on the Track button from the header of the page
+10:27:38.318 [main] INFO  resources.base - User have reached the Track page after clicking on the Track button from the header of the page
+10:27:42.831 [main] INFO  resources.base - User has clicked on the order button from the header of the page
+10:27:52.846 [main] INFO  resources.base - User have reached the Order page after clicking on the Order button from the header of the page
+10:29:07.284 [main] INFO  resources.base - aaaaae
+10:29:33.557 [main] INFO  resources.base - User has clicked on the Calendar button from the header of the page
+10:29:33.580 [main] INFO  resources.base - User have reached the  Calendar page after clicking on the Calendar button from the header of the page
+10:30:10.129 [main] INFO  resources.base - User has clicked on the Saved Report icon from the header of the page
+10:30:10.161 [main] INFO  resources.base - User have reached the  Saved Report page after clicking on the Saved Report icon from the header of the page
+10:30:15.702 [main] INFO  resources.base - user is searching printer using the search textbox
+10:31:05.324 [main] INFO  resources.base - User Have Successfully reached the Compare page
+10:52:03.724 [main] INFO  resources.base - User Have Successfully Login To The Home Page
+10:57:48.232 [main] INFO  resources.base - User Have Successfully Login To The Home Page
+11:03:40.444 [main] INFO  resources.base - User Have Successfully Login To The Home Page
+11:13:00.050 [main] INFO  resources.base - User Have Successfully Login To The Home Page
+11:36:17.824 [main] ERROR resources.base - Error Log of MT729 element not interactable
+  (Session info: chrome=79.0.3945.117)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ARP-260', ip: '10.0.75.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 79.0.3945.117, chrome: {chromedriverVersion: 78.0.3904.70 (edb9c9f3de024..., userDataDir: C:\Users\SAIMA~1.TAB\AppDat...}, goog:chromeOptions: {debuggerAddress: localhost:59529}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 79223d5d74929ac5c6473000abf20776
+11:36:17.826 [main] ERROR resources.base - element not interactable
+  (Session info: chrome=79.0.3945.117)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ARP-260', ip: '10.0.75.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 79.0.3945.117, chrome: {chromedriverVersion: 78.0.3904.70 (edb9c9f3de024..., userDataDir: C:\Users\SAIMA~1.TAB\AppDat...}, goog:chromeOptions: {debuggerAddress: localhost:59529}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 79223d5d74929ac5c6473000abf20776
+12:08:36.236 [main] ERROR resources.base - Error Log of MT729 element not interactable
+  (Session info: chrome=79.0.3945.117)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ARP-260', ip: '10.0.75.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 79.0.3945.117, chrome: {chromedriverVersion: 78.0.3904.70 (edb9c9f3de024..., userDataDir: C:\Users\SAIMA~1.TAB\AppDat...}, goog:chromeOptions: {debuggerAddress: localhost:54008}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 346b939117882b263f6c97470ed0b20f
+12:08:36.238 [main] ERROR resources.base - element not interactable
+  (Session info: chrome=79.0.3945.117)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ARP-260', ip: '10.0.75.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 79.0.3945.117, chrome: {chromedriverVersion: 78.0.3904.70 (edb9c9f3de024..., userDataDir: C:\Users\SAIMA~1.TAB\AppDat...}, goog:chromeOptions: {debuggerAddress: localhost:54008}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 346b939117882b263f6c97470ed0b20f
+12:15:47.846 [main] ERROR resources.base - Error Log of MT729 element not interactable
+  (Session info: chrome=79.0.3945.117)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ARP-260', ip: '10.0.75.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 79.0.3945.117, chrome: {chromedriverVersion: 78.0.3904.70 (edb9c9f3de024..., userDataDir: C:\Users\SAIMA~1.TAB\AppDat...}, goog:chromeOptions: {debuggerAddress: localhost:54398}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 71322d4cdd193dfe12fa01d782fbe6b3
+12:15:47.847 [main] ERROR resources.base - element not interactable
+  (Session info: chrome=79.0.3945.117)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ARP-260', ip: '10.0.75.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 79.0.3945.117, chrome: {chromedriverVersion: 78.0.3904.70 (edb9c9f3de024..., userDataDir: C:\Users\SAIMA~1.TAB\AppDat...}, goog:chromeOptions: {debuggerAddress: localhost:54398}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 71322d4cdd193dfe12fa01d782fbe6b3
+12:22:22.325 [main] ERROR resources.base - Error Log of MT729 element not interactable
+  (Session info: chrome=79.0.3945.117)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ARP-260', ip: '10.0.75.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 79.0.3945.117, chrome: {chromedriverVersion: 78.0.3904.70 (edb9c9f3de024..., userDataDir: C:\Users\SAIMA~1.TAB\AppDat...}, goog:chromeOptions: {debuggerAddress: localhost:54630}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: bb65cc82483f20e92d657a0b96272861
+12:22:22.327 [main] ERROR resources.base - element not interactable
+  (Session info: chrome=79.0.3945.117)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ARP-260', ip: '10.0.75.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 79.0.3945.117, chrome: {chromedriverVersion: 78.0.3904.70 (edb9c9f3de024..., userDataDir: C:\Users\SAIMA~1.TAB\AppDat...}, goog:chromeOptions: {debuggerAddress: localhost:54630}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: bb65cc82483f20e92d657a0b96272861
+12:28:24.584 [main] ERROR resources.base - Error Log of MT729 element not interactable
+  (Session info: chrome=79.0.3945.117)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ARP-260', ip: '10.0.75.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 79.0.3945.117, chrome: {chromedriverVersion: 78.0.3904.70 (edb9c9f3de024..., userDataDir: C:\Users\SAIMA~1.TAB\AppDat...}, goog:chromeOptions: {debuggerAddress: localhost:54845}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: a76ecaee2913f93c92605d595a5da61a
+12:28:24.586 [main] ERROR resources.base - element not interactable
+  (Session info: chrome=79.0.3945.117)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ARP-260', ip: '10.0.75.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 79.0.3945.117, chrome: {chromedriverVersion: 78.0.3904.70 (edb9c9f3de024..., userDataDir: C:\Users\SAIMA~1.TAB\AppDat...}, goog:chromeOptions: {debuggerAddress: localhost:54845}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: a76ecaee2913f93c92605d595a5da61a
+13:27:10.895 [main] ERROR resources.base - Error Log of MT729 element not interactable
+  (Session info: chrome=79.0.3945.117)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ARP-260', ip: '10.0.75.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 79.0.3945.117, chrome: {chromedriverVersion: 78.0.3904.70 (edb9c9f3de024..., userDataDir: C:\Users\SAIMA~1.TAB\AppDat...}, goog:chromeOptions: {debuggerAddress: localhost:57374}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: f11d0a30c34491cb41e4060231a92967
+13:27:10.899 [main] ERROR resources.base - element not interactable
+  (Session info: chrome=79.0.3945.117)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ARP-260', ip: '10.0.75.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 79.0.3945.117, chrome: {chromedriverVersion: 78.0.3904.70 (edb9c9f3de024..., userDataDir: C:\Users\SAIMA~1.TAB\AppDat...}, goog:chromeOptions: {debuggerAddress: localhost:57374}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: f11d0a30c34491cb41e4060231a92967
+13:33:38.475 [main] ERROR resources.base - Error Log of MT729 element not interactable
+  (Session info: chrome=79.0.3945.117)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ARP-260', ip: '10.0.75.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 79.0.3945.117, chrome: {chromedriverVersion: 78.0.3904.70 (edb9c9f3de024..., userDataDir: C:\Users\SAIMA~1.TAB\AppDat...}, goog:chromeOptions: {debuggerAddress: localhost:57976}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 8c5d486a2d6e81ea2a870681aaf7a276
+13:33:38.480 [main] ERROR resources.base - element not interactable
+  (Session info: chrome=79.0.3945.117)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ARP-260', ip: '10.0.75.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 79.0.3945.117, chrome: {chromedriverVersion: 78.0.3904.70 (edb9c9f3de024..., userDataDir: C:\Users\SAIMA~1.TAB\AppDat...}, goog:chromeOptions: {debuggerAddress: localhost:57976}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 8c5d486a2d6e81ea2a870681aaf7a276
+15:13:51.705 [main] INFO  resources.base - User has Mouse hover on My Account Icon in the header
+15:13:58.543 [main] INFO  resources.base - User has clicked on the My Profile page from My Account dropdown
+15:14:15.426 [main] INFO  resources.base - User has clicked Edit Profile button
+16:33:13.086 [main] INFO  resources.base - User has Mouse hover on My Account Icon in the header
+16:33:20.465 [main] INFO  resources.base - User has clicked on the My Profile page from My Account dropdown
+16:33:38.093 [main] INFO  resources.base - User has clicked Edit Profile button
+16:33:55.607 [main] INFO  resources.base - User has Mouse hover on My Account Icon in the header 2nd time
+16:34:02.041 [main] INFO  resources.base - User has clicked on the My Profile page from My Account dropdown 2nd time
+17:13:57.767 [main] INFO  resources.base - User has Mouse hover on My Account Icon in the header
+17:14:04.581 [main] INFO  resources.base - User has clicked on the My Profile page from My Account dropdown
+17:14:21.741 [main] INFO  resources.base - User has clicked Edit Profile button
+17:14:39.686 [main] INFO  resources.base - User has Mouse hover on My Account Icon in the header 2nd time
+17:14:45.890 [main] INFO  resources.base - User has clicked on the My Profile page from My Account dropdown 2nd time
+12:36:18.100 [main] ERROR resources.base - Search Result not displaying
+12:36:18.103 [main] ERROR resources.base - expected [Hp Laptop - MarkITplace] but found [HP Laptop - MarkITplace]
+14:39:29.953 [main] ERROR resources.base - Search Result not displaying
+14:39:29.957 [main] ERROR resources.base - expected [Hp Laptop - MarkITplace] but found [HP Laptop - MarkITplace]
+11:03:31.679 [main] ERROR resources.base - Search Result not displaying
+11:03:31.681 [main] ERROR resources.base - expected [Hp Laptop - MarkITplace] but found [HP Laptop - MarkITplace]
+11:13:09.613 [main] ERROR resources.base - Search Result not displaying
+11:13:09.614 [main] ERROR resources.base - expected [Hp Laptop - MarkITplace] but found [HP Laptop - MarkITplace]
+11:28:09.162 [main] ERROR resources.base - Search Result not displaying
+11:28:09.165 [main] ERROR resources.base - expected [Hp Laptop - MarkITplace] but found [HP Laptop - MarkITplace]
+11:34:39.271 [main] ERROR resources.base - Search Result not displaying
+11:34:39.273 [main] ERROR resources.base - expected [Hp Laptop - MarkITplace] but found [HP Laptop - MarkITplace]
+11:56:46.954 [main] ERROR resources.base - Search Result not displaying
+11:56:46.955 [main] ERROR resources.base - expected [Hp Laptop - MarkITplace] but found [HP Laptop - MarkITplace]
+14:57:17.604 [main] ERROR resources.base - Search Result not displaying
+14:57:17.606 [main] ERROR resources.base - expected [Hp Laptop - MarkITplace] but found [HP Laptop - MarkITplace]
+16:09:31.675 [main] ERROR resources.base - Search Result not displaying
+16:09:31.677 [main] ERROR resources.base - expected [Hp Laptop - MarkITplace] but found [HP Laptop - MarkITplace]
+16:29:49.307 [main] ERROR resources.base - Search Result not displaying
+16:29:49.308 [main] ERROR resources.base - expected [Hp Laptop - MarkITplace] but found [HP Laptop - MarkITplace]
+16:40:28.478 [main] ERROR resources.base - Search Result not displaying
+16:40:28.480 [main] ERROR resources.base - expected [Hp Laptop - MarkITplace] but found [HP Laptop - MarkITplace]
+16:48:13.942 [main] ERROR resources.base - Search Result not displaying
+16:48:13.944 [main] ERROR resources.base - expected [Hp Laptop - MarkITplace] but found [HP Laptop - MarkITplace]
+16:51:49.081 [main] ERROR resources.base - Search Result not displaying
+16:51:49.082 [main] ERROR resources.base - expected [Hp Laptop - MarkITplace] but found [HP Laptop - MarkITplace]
+16:54:53.778 [main] ERROR resources.base - Search Result not displaying
+16:54:53.779 [main] ERROR resources.base - expected [Hp Laptop - MarkITplace] but found [Shop - MarkITplace]
+16:57:14.723 [main] ERROR resources.base - Search Result not displaying
+16:57:14.724 [main] ERROR resources.base - expected [Hp Laptop - MarkITplace] but found [HP Laptop - MarkITplace]
+17:01:06.738 [main] ERROR resources.base - Search Result not displaying
+17:01:06.739 [main] ERROR resources.base - expected [Hp Laptop - MarkITplace] but found [HP Laptop - MarkITplace]
+17:10:06.227 [main] ERROR resources.base - Search Result not displaying
+17:10:06.229 [main] ERROR resources.base - expected [Hp Laptop - MarkITplace] but found [HP Laptop - MarkITplace]
+17:38:30.683 [main] ERROR resources.base - Search Result not displaying
+17:38:30.686 [main] ERROR resources.base - expected [Hp Laptop - MarkITplace] but found [HP Laptop - MarkITplace]
+12:32:58.109 [main] ERROR resources.base - Search Result not displaying
+12:32:58.110 [main] ERROR resources.base - expected [Hp Laptop - MarkITplace] but found [HP Laptop - MarkITplace]
+12:53:14.199 [main] ERROR resources.base - Search Result not displaying
+12:53:14.201 [main] ERROR resources.base - expected [Hp Laptop - MarkITplace] but found [HP Laptop - MarkITplace]
+15:59:23.875 [main] INFO  resources.base - User Have Successfully Login To The Home Page
+15:59:32.667 [main] INFO  resources.base - User Have Successfully reached the favorites Page
+16:00:12.921 [main] INFO  resources.base - user is searching printer using the search textbox
+16:00:12.941 [main] INFO  resources.base - User Have Successfully reached the printer search listing page
+16:00:28.039 [main] INFO  resources.base - Search result data is Appearing on the Search Result Page
+16:01:25.408 [main] INFO  resources.base - User has clicked the Logo from the footer of the page
+16:01:25.419 [main] INFO  resources.base - User Have reached the Home Page clicking on the footer Logo
+16:02:02.522 [main] INFO  resources.base - User has clicked on the My Profile page from My Account dropdown
+16:02:02.539 [main] INFO  resources.base - User has clicked on the My Profile page from My Account dropdown
+16:02:36.104 [main] INFO  resources.base - User has clicked on the My Profile page from My Account dropdown
+16:03:03.642 [main] INFO  resources.base - User has clicked the Logo from the header of the page
+16:03:03.655 [main] INFO  resources.base - User Have reached the Home Page clicking on the Header Logo
+16:03:44.062 [main] INFO  resources.base - User has clicked on the Standard Catalog Navigation button from header
+16:03:44.082 [main] INFO  resources.base - User Have reached the Standard Catalog Page
+16:05:25.370 [main] INFO  resources.base - User has clicked on Audio Cables Category From All Products Page
+16:05:25.405 [main] INFO  resources.base - User Have reached the Audio Cables Category Page
+16:05:48.547 [main] INFO  resources.base - User has clicked on Resouces link from the header
+16:05:48.593 [main] INFO  resources.base - User Have reached the Resources Page
+16:06:34.210 [main] INFO  resources.base - User has clicked on Special Offer Link from the header
+16:06:34.234 [main] INFO  resources.base - User Have reached the Special Offer Page
+16:06:59.977 [main] INFO  resources.base - User has clicked on Cart Icon from the header
+16:06:59.991 [main] INFO  resources.base - User Have reached the Shopping Cart Page
+16:07:32.090 [main] INFO  resources.base - User has clicked the Logo from the header of the page
+16:07:42.105 [main] INFO  resources.base - User Have reached the Home Page clicking on the Header Logo
+16:07:52.431 [main] INFO  resources.base - User has clicked the Logo from the footer of the page
+16:07:52.632 [main] INFO  resources.base - User Have reached the Home Page clicking on the footer Logo
+16:08:41.852 [main] INFO  resources.base - User has clicked on the All product Link from the footer of the page
+16:08:51.866 [main] INFO  resources.base - User Have reached the All Product page after clicking on the Standard Catalog Link from the footer of the page
+16:09:06.164 [main] INFO  resources.base - User has clicked on the resources  Link from the footer of the page
+16:09:21.444 [main] INFO  resources.base - User Have reached the resources page after clicking on the resources Link from the footer of the page
+16:09:35.676 [main] INFO  resources.base - User has clicked on the Special offer Link from the footer of the page
+16:09:45.694 [main] INFO  resources.base - User Have reached the Special offer after clicking on the Special offer Link from the footer of the page
+16:09:55.748 [main] INFO  resources.base - User has clicked on the Special offer Link from the footer of the page
+16:10:05.759 [main] INFO  resources.base - User Have reached the Favorites after clicking on the Favorites Link from the footer of the page
+16:10:26.321 [main] INFO  resources.base - User has clicked on the Track button from the header of the page

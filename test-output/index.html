@@ -1,0 +1,978 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+  <meta charset='utf-8'>
+  <title>TestNG reports</title>
+
+    <link type="text/css" href="testng-reports.css" rel="stylesheet" />
+    <script type="text/javascript" src="jquery-1.7.1.min.js"></script>
+    <script type="text/javascript" src="testng-reports.js"></script>
+    <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+    <script type='text/javascript'>
+      google.load('visualization', '1', {packages:['table']});
+      google.setOnLoadCallback(drawTable);
+      var suiteTableInitFunctions = new Array();
+      var suiteTableData = new Array();
+    </script>
+    <!--
+      <script type="text/javascript" src="jquery-ui/js/jquery-ui-1.8.16.custom.min.js"></script>
+     -->
+  </head>
+
+  <body>
+    <div class="top-banner-root">
+      <span class="top-banner-title-font">Test results</span>
+      <br/>
+      <span class="top-banner-font-1">1 suite, 15 failed tests</span>
+    </div> <!-- top-banner-root -->
+    <div class="navigator-root">
+      <div class="navigator-suite-header">
+        <span>All suites</span>
+        <a href="#" title="Collapse/expand all the suites" class="collapse-all-link">
+          <img src="collapseall.gif" class="collapse-all-icon">
+          </img> <!-- collapse-all-icon -->
+        </a> <!-- collapse-all-link -->
+      </div> <!-- navigator-suite-header -->
+      <div class="suite">
+        <div class="rounded-window">
+          <div class="suite-header light-rounded-window-top">
+            <a href="#" panel-name="suite-SmokeTestSuite" class="navigator-link">
+              <span class="suite-name border-failed">SmokeTestSuite</span>
+            </a> <!-- navigator-link -->
+          </div> <!-- suite-header light-rounded-window-top -->
+          <div class="navigator-suite-content">
+            <div class="suite-section-title">
+              <span>Info</span>
+            </div> <!-- suite-section-title -->
+            <div class="suite-section-content">
+              <ul>
+                <li>
+                  <a href="#" panel-name="test-xml-SmokeTestSuite" class="navigator-link ">
+                    <span>D:\Automation\MarkITPlace\markitplace-automation\SmokeQAtestNG.xml</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" panel-name="testlist-SmokeTestSuite" class="navigator-link ">
+                    <span class="test-stats">1 test</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" panel-name="group-SmokeTestSuite" class="navigator-link ">
+                    <span>0 groups</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" panel-name="times-SmokeTestSuite" class="navigator-link ">
+                    <span>Times</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" panel-name="reporter-SmokeTestSuite" class="navigator-link ">
+                    <span>Reporter output</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" panel-name="ignored-methods-SmokeTestSuite" class="navigator-link ">
+                    <span>Ignored methods</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" panel-name="chronological-SmokeTestSuite" class="navigator-link ">
+                    <span>Chronological view</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+              </ul>
+            </div> <!-- suite-section-content -->
+            <div class="result-section">
+              <div class="suite-section-title">
+                <span>Results</span>
+              </div> <!-- suite-section-title -->
+              <div class="suite-section-content">
+                <ul>
+                  <li>
+                    <span class="method-stats">15 methods, 15 failed,   </span>
+                  </li>
+                  <li>
+                    <span class="method-list-title failed">Failed methods</span>
+                    <span class="show-or-hide-methods failed">
+                      <a href="#" panel-name="suite-SmokeTestSuite" class="hide-methods failed suite-SmokeTestSuite"> (hide)</a> <!-- hide-methods failed suite-SmokeTestSuite -->
+                      <a href="#" panel-name="suite-SmokeTestSuite" class="show-methods failed suite-SmokeTestSuite"> (show)</a> <!-- show-methods failed suite-SmokeTestSuite -->
+                    </span>
+                    <div class="method-list-content failed suite-SmokeTestSuite">
+                      <span>
+                        <img src="failed.png" width="3%"/>
+                        <a href="#" panel-name="suite-SmokeTestSuite" title="tests.SmokeTestsSuite3" class="method navigator-link" hash-for-method="AllProductScenario1(http://markitplace-qa.arpatech.com/)">AllProductScenario1(http://markitplace-qa.arpatech.com/)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="failed.png" width="3%"/>
+                        <a href="#" panel-name="suite-SmokeTestSuite" title="tests.SmokeTestsSuite3" class="method navigator-link" hash-for-method="AllProductSubCategory(http://markitplace-qa.arpatech.com/)">AllProductSubCategory(http://markitplace-qa.arpatech.com/)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="failed.png" width="3%"/>
+                        <a href="#" panel-name="suite-SmokeTestSuite" title="tests.SmokeTestsSuite3" class="method navigator-link" hash-for-method="AllProductViewAllCategories(http://markitplace-qa.arpatech.com/)">AllProductViewAllCategories(http://markitplace-qa.arpatech.com/)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="failed.png" width="3%"/>
+                        <a href="#" panel-name="suite-SmokeTestSuite" title="tests.SmokeTestsSuite3" class="method navigator-link" hash-for-method="Contact_us(http://markitplace-qa.arpatech.com/)">Contact_us(http://markitplace-qa.arpatech.com/)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="failed.png" width="3%"/>
+                        <a href="#" panel-name="suite-SmokeTestSuite" title="tests.SmokeTestsSuite3" class="method navigator-link" hash-for-method="CreatePARAfterQUOTE">CreatePARAfterQUOTE</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="failed.png" width="3%"/>
+                        <a href="#" panel-name="suite-SmokeTestSuite" title="tests.SmokeTestsSuite3" class="method navigator-link" hash-for-method="Create_quote_FromProductListing(http://markitplace-qa.arpatech.com/)">Create_quote_FromProductListing(http://markitplace-qa.arpatech.com/)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="failed.png" width="3%"/>
+                        <a href="#" panel-name="suite-SmokeTestSuite" title="tests.SmokeTestsSuite3" class="method navigator-link" hash-for-method="PONum_clickable">PONum_clickable</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="failed.png" width="3%"/>
+                        <a href="#" panel-name="suite-SmokeTestSuite" title="tests.SmokeTestsSuite3" class="method navigator-link" hash-for-method="Request_quote(arpatech1@connection.com, Arp@tech5, http://markitplace-qa.arpatech.com/)">Request_quote(arpatech1@connection.com, Arp@tech5, http://markitplace-qa.arpatech.com/)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="failed.png" width="3%"/>
+                        <a href="#" panel-name="suite-SmokeTestSuite" title="tests.SmokeTestsSuite3" class="method navigator-link" hash-for-method="Validate_Delete_button(http://markitplace-qa.arpatech.com/)">Validate_Delete_button(http://markitplace-qa.arpatech.com/)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="failed.png" width="3%"/>
+                        <a href="#" panel-name="suite-SmokeTestSuite" title="tests.SmokeTestsSuite3" class="method navigator-link" hash-for-method="Validate_Email_button">Validate_Email_button</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="failed.png" width="3%"/>
+                        <a href="#" panel-name="suite-SmokeTestSuite" title="tests.SmokeTestsSuite3" class="method navigator-link" hash-for-method="Validate_download_button(http://markitplace-qa.arpatech.com/)">Validate_download_button(http://markitplace-qa.arpatech.com/)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="failed.png" width="3%"/>
+                        <a href="#" panel-name="suite-SmokeTestSuite" title="tests.SmokeTestsSuite3" class="method navigator-link" hash-for-method="VerifyCreateOrderAfterQUOTE(http://markitplace-qa.arpatech.com/)">VerifyCreateOrderAfterQUOTE(http://markitplace-qa.arpatech.com/)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="failed.png" width="3%"/>
+                        <a href="#" panel-name="suite-SmokeTestSuite" title="tests.SmokeTestsSuite3" class="method navigator-link" hash-for-method="VerifyCreateOrderandDeleteQuoteButton(http://markitplace-qa.arpatech.com/)">VerifyCreateOrderandDeleteQuoteButton(http://markitplace-qa.arpatech.com/)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="failed.png" width="3%"/>
+                        <a href="#" panel-name="suite-SmokeTestSuite" title="tests.SmokeTestsSuite3" class="method navigator-link" hash-for-method="VerifyEditQuote">VerifyEditQuote</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="failed.png" width="3%"/>
+                        <a href="#" panel-name="suite-SmokeTestSuite" title="tests.SmokeTestsSuite3" class="method navigator-link" hash-for-method="VerifymultipleproductsinQuote">VerifymultipleproductsinQuote</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                    </div> <!-- method-list-content failed suite-SmokeTestSuite -->
+                  </li>
+                </ul>
+              </div> <!-- suite-section-content -->
+            </div> <!-- result-section -->
+          </div> <!-- navigator-suite-content -->
+        </div> <!-- rounded-window -->
+      </div> <!-- suite -->
+    </div> <!-- navigator-root -->
+    <div class="wrapper">
+      <div class="main-panel-root">
+        <div panel-name="suite-SmokeTestSuite" class="panel SmokeTestSuite">
+          <div class="suite-SmokeTestSuite-class-failed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="failed.png"/>
+              <span class="class-name">tests.SmokeTestsSuite3</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="AllProductScenario1(http://markitplace-qa.arpatech.com/)">
+                  </a> <!-- AllProductScenario1(http://markitplace-qa.arpatech.com/) -->
+                  <span class="method-name">AllProductScenario1</span>
+                  <span class="parameters">(http://markitplace-qa.arpatech.com/)</span>
+                  <div class="stack-trace">org.openqa.selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=78.0.3904.70)
+Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:17:03&apos;
+System info: host: &apos;ARP-435&apos;, ip: &apos;10.10.0.6&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;16.0.1&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 78.0.3904.70, chrome: {chromedriverVersion: 78.0.3904.70 (edb9c9f3de024..., userDataDir: C:\Users\AYER~1.SHU\AppData...}, goog:chromeOptions: {debuggerAddress: localhost:61030}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 5bb09a39bcb2aad5180eb5c8df77731a
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:277)
+	at tests.SmokeTestsSuite3.AllProductScenario1(SmokeTestsSuite3.java:1406)
+... Removed 30 stack frames
+</div> <!-- stack-trace -->
+                  <em>
+(click on category then click sub catergory and then select product and add to cart)                  </em>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="AllProductSubCategory(http://markitplace-qa.arpatech.com/)">
+                  </a> <!-- AllProductSubCategory(http://markitplace-qa.arpatech.com/) -->
+                  <span class="method-name">AllProductSubCategory</span>
+                  <span class="parameters">(http://markitplace-qa.arpatech.com/)</span>
+                  <div class="stack-trace">org.openqa.selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=78.0.3904.70)
+Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:17:03&apos;
+System info: host: &apos;ARP-435&apos;, ip: &apos;10.10.0.6&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;16.0.1&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 78.0.3904.70, chrome: {chromedriverVersion: 78.0.3904.70 (edb9c9f3de024..., userDataDir: C:\Users\AYER~1.SHU\AppData...}, goog:chromeOptions: {debuggerAddress: localhost:61030}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 5bb09a39bcb2aad5180eb5c8df77731a
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:277)
+	at tests.SmokeTestsSuite3.AllProductSubCategory(SmokeTestsSuite3.java:1547)
+... Removed 30 stack frames
+</div> <!-- stack-trace -->
+                  <em>
+(AllProduct SubCategory Random Click)                  </em>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="AllProductViewAllCategories(http://markitplace-qa.arpatech.com/)">
+                  </a> <!-- AllProductViewAllCategories(http://markitplace-qa.arpatech.com/) -->
+                  <span class="method-name">AllProductViewAllCategories</span>
+                  <span class="parameters">(http://markitplace-qa.arpatech.com/)</span>
+                  <div class="stack-trace">org.openqa.selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=78.0.3904.70)
+Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:17:03&apos;
+System info: host: &apos;ARP-435&apos;, ip: &apos;10.10.0.6&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;16.0.1&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 78.0.3904.70, chrome: {chromedriverVersion: 78.0.3904.70 (edb9c9f3de024..., userDataDir: C:\Users\AYER~1.SHU\AppData...}, goog:chromeOptions: {debuggerAddress: localhost:61030}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 5bb09a39bcb2aad5180eb5c8df77731a
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:277)
+	at tests.SmokeTestsSuite3.AllProductViewAllCategories(SmokeTestsSuite3.java:1705)
+... Removed 30 stack frames
+</div> <!-- stack-trace -->
+                  <em>
+(AllProduct View All Categories)                  </em>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="Contact_us(http://markitplace-qa.arpatech.com/)">
+                  </a> <!-- Contact_us(http://markitplace-qa.arpatech.com/) -->
+                  <span class="method-name">Contact_us</span>
+                  <span class="parameters">(http://markitplace-qa.arpatech.com/)</span>
+                  <div class="stack-trace">org.openqa.selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=78.0.3904.70)
+Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:17:03&apos;
+System info: host: &apos;ARP-435&apos;, ip: &apos;10.10.0.6&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;16.0.1&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 78.0.3904.70, chrome: {chromedriverVersion: 78.0.3904.70 (edb9c9f3de024..., userDataDir: C:\Users\AYER~1.SHU\AppData...}, goog:chromeOptions: {debuggerAddress: localhost:61030}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 5bb09a39bcb2aad5180eb5c8df77731a
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:277)
+	at tests.SmokeTestsSuite3.Contact_us(SmokeTestsSuite3.java:1320)
+... Removed 30 stack frames
+</div> <!-- stack-trace -->
+                  <em>
+(Contact Us)                  </em>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="CreatePARAfterQUOTE">
+                  </a> <!-- CreatePARAfterQUOTE -->
+                  <span class="method-name">CreatePARAfterQUOTE</span>
+                  <div class="stack-trace">org.openqa.selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=78.0.3904.70)
+Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:17:03&apos;
+System info: host: &apos;ARP-435&apos;, ip: &apos;10.10.0.6&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;16.0.1&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 78.0.3904.70, chrome: {chromedriverVersion: 78.0.3904.70 (edb9c9f3de024..., userDataDir: C:\Users\AYER~1.SHU\AppData...}, goog:chromeOptions: {debuggerAddress: localhost:61030}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 5bb09a39bcb2aad5180eb5c8df77731a
+*** Element info: {Using=xpath, value=//*[@id=&apos;track-quotes&apos;]//*[@class=&apos;btn btn-default&apos;][contains(text(),&apos;Create PAR&apos;)]}
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+	at Track_Quotes.QuoteDetail.GetCreateParAftQuote(QuoteDetail.java:177)
+	at tests.SmokeTestsSuite3.CreatePARAfterQUOTE(SmokeTestsSuite3.java:412)
+... Removed 30 stack frames
+</div> <!-- stack-trace -->
+                  <em>
+(create PAR after Quote is created)                  </em>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="Create_quote_FromProductListing(http://markitplace-qa.arpatech.com/)">
+                  </a> <!-- Create_quote_FromProductListing(http://markitplace-qa.arpatech.com/) -->
+                  <span class="method-name">Create_quote_FromProductListing</span>
+                  <span class="parameters">(http://markitplace-qa.arpatech.com/)</span>
+                  <div class="stack-trace">org.openqa.selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=78.0.3904.70)
+Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:17:03&apos;
+System info: host: &apos;ARP-435&apos;, ip: &apos;10.10.0.6&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;16.0.1&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 78.0.3904.70, chrome: {chromedriverVersion: 78.0.3904.70 (edb9c9f3de024..., userDataDir: C:\Users\AYER~1.SHU\AppData...}, goog:chromeOptions: {debuggerAddress: localhost:61030}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 5bb09a39bcb2aad5180eb5c8df77731a
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:277)
+	at tests.SmokeTestsSuite3.Create_quote_FromProductListing(SmokeTestsSuite3.java:218)
+... Removed 30 stack frames
+</div> <!-- stack-trace -->
+                  <em>
+(Create Quote From ProductListing)                  </em>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="PONum_clickable">
+                  </a> <!-- PONum_clickable -->
+                  <span class="method-name">PONum_clickable</span>
+                  <div class="stack-trace">org.openqa.selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=78.0.3904.70)
+Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:17:03&apos;
+System info: host: &apos;ARP-435&apos;, ip: &apos;10.10.0.6&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;16.0.1&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 78.0.3904.70, chrome: {chromedriverVersion: 78.0.3904.70 (edb9c9f3de024..., userDataDir: C:\Users\AYER~1.SHU\AppData...}, goog:chromeOptions: {debuggerAddress: localhost:61030}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 5bb09a39bcb2aad5180eb5c8df77731a
+*** Element info: {Using=xpath, value=//*[@class=&apos;order-confirmation-container&apos;]//span[@class=&apos;detail-info po-number blue&apos;]}
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+	at Track_Quotes.QuoteDetail.GetPONum(QuoteDetail.java:169)
+	at tests.SmokeTestsSuite3.PONum_clickable(SmokeTestsSuite3.java:381)
+... Removed 30 stack frames
+</div> <!-- stack-trace -->
+                  <em>
+(PONum clickable)                  </em>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="Request_quote(arpatech1@connection.com, Arp@tech5, http://markitplace-qa.arpatech.com/)">
+                  </a> <!-- Request_quote(arpatech1@connection.com, Arp@tech5, http://markitplace-qa.arpatech.com/) -->
+                  <span class="method-name">Request_quote</span>
+                  <span class="parameters">(arpatech1@connection.com, Arp@tech5, http://markitplace-qa.arpatech.com/)</span>
+                  <div class="stack-trace">org.openqa.selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=78.0.3904.70)
+Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:17:03&apos;
+System info: host: &apos;ARP-435&apos;, ip: &apos;10.10.0.6&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;16.0.1&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 78.0.3904.70, chrome: {chromedriverVersion: 78.0.3904.70 (edb9c9f3de024..., userDataDir: C:\Users\AYER~1.SHU\AppData...}, goog:chromeOptions: {debuggerAddress: localhost:61030}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 5bb09a39bcb2aad5180eb5c8df77731a
+*** Element info: {Using=xpath, value=//input[@name=&apos;username&apos;]}
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+	at Home.LoginPage.getusername(LoginPage.java:31)
+	at tests.SmokeTestsSuite3.Request_quote(SmokeTestsSuite3.java:142)
+... Removed 30 stack frames
+</div> <!-- stack-trace -->
+                  <em>
+(Request Quote)                  </em>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="Validate_Delete_button(http://markitplace-qa.arpatech.com/)">
+                  </a> <!-- Validate_Delete_button(http://markitplace-qa.arpatech.com/) -->
+                  <span class="method-name">Validate_Delete_button</span>
+                  <span class="parameters">(http://markitplace-qa.arpatech.com/)</span>
+                  <div class="stack-trace">org.openqa.selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=78.0.3904.70)
+Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:17:03&apos;
+System info: host: &apos;ARP-435&apos;, ip: &apos;10.10.0.6&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;16.0.1&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 78.0.3904.70, chrome: {chromedriverVersion: 78.0.3904.70 (edb9c9f3de024..., userDataDir: C:\Users\AYER~1.SHU\AppData...}, goog:chromeOptions: {debuggerAddress: localhost:61030}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 5bb09a39bcb2aad5180eb5c8df77731a
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:277)
+	at tests.SmokeTestsSuite3.Validate_Delete_button(SmokeTestsSuite3.java:1262)
+... Removed 30 stack frames
+</div> <!-- stack-trace -->
+                  <em>
+(Validate delete button after creating quote)                  </em>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="Validate_Email_button">
+                  </a> <!-- Validate_Email_button -->
+                  <span class="method-name">Validate_Email_button</span>
+                  <div class="stack-trace">org.openqa.selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=78.0.3904.70)
+Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:17:03&apos;
+System info: host: &apos;ARP-435&apos;, ip: &apos;10.10.0.6&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;16.0.1&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 78.0.3904.70, chrome: {chromedriverVersion: 78.0.3904.70 (edb9c9f3de024..., userDataDir: C:\Users\AYER~1.SHU\AppData...}, goog:chromeOptions: {debuggerAddress: localhost:61030}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 5bb09a39bcb2aad5180eb5c8df77731a
+*** Element info: {Using=xpath, value=//*[@class=&apos;product-list-actions&apos;]//a[text()=&apos;Email&apos;]}
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+	at Track_Quotes.QuoteDetail.clickemail(QuoteDetail.java:117)
+	at tests.SmokeTestsSuite3.Validate_Email_button(SmokeTestsSuite3.java:1210)
+... Removed 30 stack frames
+</div> <!-- stack-trace -->
+                  <em>
+(Validate email button after creating quote)                  </em>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="Validate_download_button(http://markitplace-qa.arpatech.com/)">
+                  </a> <!-- Validate_download_button(http://markitplace-qa.arpatech.com/) -->
+                  <span class="method-name">Validate_download_button</span>
+                  <span class="parameters">(http://markitplace-qa.arpatech.com/)</span>
+                  <div class="stack-trace">org.openqa.selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=78.0.3904.70)
+Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:17:03&apos;
+System info: host: &apos;ARP-435&apos;, ip: &apos;10.10.0.6&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;16.0.1&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 78.0.3904.70, chrome: {chromedriverVersion: 78.0.3904.70 (edb9c9f3de024..., userDataDir: C:\Users\AYER~1.SHU\AppData...}, goog:chromeOptions: {debuggerAddress: localhost:61030}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 5bb09a39bcb2aad5180eb5c8df77731a
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:277)
+	at tests.SmokeTestsSuite3.Validate_download_button(SmokeTestsSuite3.java:1026)
+... Removed 30 stack frames
+</div> <!-- stack-trace -->
+                  <em>
+(Validate download button after creating quote)                  </em>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="VerifyCreateOrderAfterQUOTE(http://markitplace-qa.arpatech.com/)">
+                  </a> <!-- VerifyCreateOrderAfterQUOTE(http://markitplace-qa.arpatech.com/) -->
+                  <span class="method-name">VerifyCreateOrderAfterQUOTE</span>
+                  <span class="parameters">(http://markitplace-qa.arpatech.com/)</span>
+                  <div class="stack-trace">org.openqa.selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=78.0.3904.70)
+Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:17:03&apos;
+System info: host: &apos;ARP-435&apos;, ip: &apos;10.10.0.6&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;16.0.1&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 78.0.3904.70, chrome: {chromedriverVersion: 78.0.3904.70 (edb9c9f3de024..., userDataDir: C:\Users\AYER~1.SHU\AppData...}, goog:chromeOptions: {debuggerAddress: localhost:61030}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 5bb09a39bcb2aad5180eb5c8df77731a
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:277)
+	at tests.SmokeTestsSuite3.VerifyCreateOrderAfterQUOTE(SmokeTestsSuite3.java:665)
+... Removed 30 stack frames
+</div> <!-- stack-trace -->
+                  <em>
+(Verify create order after quote is created)                  </em>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="VerifyCreateOrderandDeleteQuoteButton(http://markitplace-qa.arpatech.com/)">
+                  </a> <!-- VerifyCreateOrderandDeleteQuoteButton(http://markitplace-qa.arpatech.com/) -->
+                  <span class="method-name">VerifyCreateOrderandDeleteQuoteButton</span>
+                  <span class="parameters">(http://markitplace-qa.arpatech.com/)</span>
+                  <div class="stack-trace">org.openqa.selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=78.0.3904.70)
+Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:17:03&apos;
+System info: host: &apos;ARP-435&apos;, ip: &apos;10.10.0.6&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;16.0.1&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 78.0.3904.70, chrome: {chromedriverVersion: 78.0.3904.70 (edb9c9f3de024..., userDataDir: C:\Users\AYER~1.SHU\AppData...}, goog:chromeOptions: {debuggerAddress: localhost:61030}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 5bb09a39bcb2aad5180eb5c8df77731a
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:277)
+	at tests.SmokeTestsSuite3.VerifyCreateOrderandDeleteQuoteButton(SmokeTestsSuite3.java:779)
+... Removed 30 stack frames
+</div> <!-- stack-trace -->
+                  <em>
+(Verify create order and delete quote)                  </em>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="VerifyEditQuote">
+                  </a> <!-- VerifyEditQuote -->
+                  <span class="method-name">VerifyEditQuote</span>
+                  <div class="stack-trace">org.openqa.selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=78.0.3904.70)
+Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:17:03&apos;
+System info: host: &apos;ARP-435&apos;, ip: &apos;10.10.0.6&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;16.0.1&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 78.0.3904.70, chrome: {chromedriverVersion: 78.0.3904.70 (edb9c9f3de024..., userDataDir: C:\Users\AYER~1.SHU\AppData...}, goog:chromeOptions: {debuggerAddress: localhost:61030}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 5bb09a39bcb2aad5180eb5c8df77731a
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:277)
+	at tests.SmokeTestsSuite3.VerifyEditQuote(SmokeTestsSuite3.java:457)
+... Removed 30 stack frames
+</div> <!-- stack-trace -->
+                  <em>
+(create PAR after Quote is created)                  </em>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="VerifymultipleproductsinQuote">
+                  </a> <!-- VerifymultipleproductsinQuote -->
+                  <span class="method-name">VerifymultipleproductsinQuote</span>
+                  <div class="stack-trace">org.openqa.selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=78.0.3904.70)
+Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:17:03&apos;
+System info: host: &apos;ARP-435&apos;, ip: &apos;10.10.0.6&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;16.0.1&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 78.0.3904.70, chrome: {chromedriverVersion: 78.0.3904.70 (edb9c9f3de024..., userDataDir: C:\Users\AYER~1.SHU\AppData...}, goog:chromeOptions: {debuggerAddress: localhost:61030}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 5bb09a39bcb2aad5180eb5c8df77731a
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:277)
+	at tests.SmokeTestsSuite3.VerifymultipleproductsinQuote(SmokeTestsSuite3.java:537)
+... Removed 30 stack frames
+</div> <!-- stack-trace -->
+                  <em>
+(Verify multiple products in Quote)                  </em>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-SmokeTestSuite-class-failed -->
+        </div> <!-- panel SmokeTestSuite -->
+        <div panel-name="test-xml-SmokeTestSuite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">D:\Automation\MarkITPlace\markitplace-automation\SmokeQAtestNG.xml</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <pre>
+&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
+&lt;!DOCTYPE suite SYSTEM &quot;http://testng.org/testng-1.0.dtd&quot;&gt;
+&lt;suite name=&quot;SmokeTestSuite&quot; guice-stage=&quot;DEVELOPMENT&quot;&gt;
+  &lt;listeners&gt;
+    &lt;listener class-name=&quot;resources.listeners&quot;/&gt;
+    &lt;listener class-name=&quot;resources.CustomTestNGReporter&quot;/&gt;
+    &lt;listener class-name=&quot;resources.ExtentReporterNG&quot;/&gt;
+  &lt;/listeners&gt;
+  &lt;test thread-count=&quot;5&quot; name=&quot;Validate Smoke Tests&quot;&gt;
+    &lt;parameter name=&quot;pswd1&quot; value=&quot;[6D.,58Nq%4{rSu&quot;/&gt;
+    &lt;parameter name=&quot;pswd3&quot; value=&quot;Arp@tech5&quot;/&gt;
+    &lt;parameter name=&quot;pswd4&quot; value=&quot;8[&amp;lt;#,HuK&quot;/&gt;
+    &lt;parameter name=&quot;pswd5&quot; value=&quot;Y/ShFCc?(v9;STU9&quot;/&gt;
+    &lt;parameter name=&quot;pswd6&quot; value=&quot;Y/ShFCc?(v9;STU9&quot;/&gt;
+    &lt;parameter name=&quot;username7&quot; value=&quot;arpatech_ag_approver@connection.com&quot;/&gt;
+    &lt;parameter name=&quot;pswd7&quot; value=&quot;Q7#[qK~7B.MNrru@&quot;/&gt;
+    &lt;parameter name=&quot;url&quot; value=&quot;http://markitplace-qa.arpatech.com/&quot;/&gt;
+    &lt;parameter name=&quot;usernme6&quot; value=&quot;arpatech-qa@connection.com&quot;/&gt;
+    &lt;parameter name=&quot;punchout&quot; value=&quot;http://markitplace-qa.arpatech.com/auth/login?buyercookie=BUS033.LFH.20180402edit01&quot;/&gt;
+    &lt;parameter name=&quot;username5&quot; value=&quot;arpatech-qa@connection.com&quot;/&gt;
+    &lt;parameter name=&quot;username4&quot; value=&quot;ACC003CC@connection.com&quot;/&gt;
+    &lt;parameter name=&quot;username3&quot; value=&quot;arpatech1@connection.com&quot;/&gt;
+    &lt;parameter name=&quot;username1&quot; value=&quot;arpatech_ag_puchaser@connection.com&quot;/&gt;
+    &lt;parameter name=&quot;CA&quot; value=&quot;http://markitplace-qa.arpatech.com/track/comparative-analysis?accountCode=MAI005&quot;/&gt;
+    &lt;classes&gt;
+      &lt;class name=&quot;tests.SmokeTestsSuite3&quot;/&gt;
+    &lt;/classes&gt;
+  &lt;/test&gt; &lt;!-- Validate Smoke Tests --&gt;
+&lt;/suite&gt; &lt;!-- SmokeTestSuite --&gt;
+            </pre>
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="testlist-SmokeTestSuite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Tests for SmokeTestSuite</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <ul>
+              <li>
+                <span class="test-name">Validate Smoke Tests (1 class)</span>
+              </li>
+            </ul>
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="group-SmokeTestSuite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Groups for SmokeTestSuite</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="times-SmokeTestSuite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Times for SmokeTestSuite</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="times-div">
+              <script type="text/javascript">
+suiteTableInitFunctions.push('tableData_SmokeTestSuite');
+function tableData_SmokeTestSuite() {
+var data = new google.visualization.DataTable();
+data.addColumn('number', 'Number');
+data.addColumn('string', 'Method');
+data.addColumn('string', 'Class');
+data.addColumn('number', 'Time (ms)');
+data.addRows(15);
+data.setCell(0, 0, 0)
+data.setCell(0, 1, 'Request_quote')
+data.setCell(0, 2, 'tests.SmokeTestsSuite3')
+data.setCell(0, 3, 25296);
+data.setCell(1, 0, 1)
+data.setCell(1, 1, 'Validate_Email_button')
+data.setCell(1, 2, 'tests.SmokeTestsSuite3')
+data.setCell(1, 3, 24251);
+data.setCell(2, 0, 2)
+data.setCell(2, 1, 'VerifyCreateOrderAfterQUOTE')
+data.setCell(2, 2, 'tests.SmokeTestsSuite3')
+data.setCell(2, 3, 19480);
+data.setCell(3, 0, 3)
+data.setCell(3, 1, 'PONum_clickable')
+data.setCell(3, 2, 'tests.SmokeTestsSuite3')
+data.setCell(3, 3, 19238);
+data.setCell(4, 0, 4)
+data.setCell(4, 1, 'Validate_Delete_button')
+data.setCell(4, 2, 'tests.SmokeTestsSuite3')
+data.setCell(4, 3, 19226);
+data.setCell(5, 0, 5)
+data.setCell(5, 1, 'VerifyEditQuote')
+data.setCell(5, 2, 'tests.SmokeTestsSuite3')
+data.setCell(5, 3, 19222);
+data.setCell(6, 0, 6)
+data.setCell(6, 1, 'Validate_download_button')
+data.setCell(6, 2, 'tests.SmokeTestsSuite3')
+data.setCell(6, 3, 19219);
+data.setCell(7, 0, 7)
+data.setCell(7, 1, 'VerifymultipleproductsinQuote')
+data.setCell(7, 2, 'tests.SmokeTestsSuite3')
+data.setCell(7, 3, 19216);
+data.setCell(8, 0, 8)
+data.setCell(8, 1, 'AllProductSubCategory')
+data.setCell(8, 2, 'tests.SmokeTestsSuite3')
+data.setCell(8, 3, 14226);
+data.setCell(9, 0, 9)
+data.setCell(9, 1, 'AllProductViewAllCategories')
+data.setCell(9, 2, 'tests.SmokeTestsSuite3')
+data.setCell(9, 3, 14226);
+data.setCell(10, 0, 10)
+data.setCell(10, 1, 'VerifyCreateOrderandDeleteQuoteButton')
+data.setCell(10, 2, 'tests.SmokeTestsSuite3')
+data.setCell(10, 3, 14224);
+data.setCell(11, 0, 11)
+data.setCell(11, 1, 'CreatePARAfterQUOTE')
+data.setCell(11, 2, 'tests.SmokeTestsSuite3')
+data.setCell(11, 3, 14224);
+data.setCell(12, 0, 12)
+data.setCell(12, 1, 'AllProductScenario1')
+data.setCell(12, 2, 'tests.SmokeTestsSuite3')
+data.setCell(12, 3, 14218);
+data.setCell(13, 0, 13)
+data.setCell(13, 1, 'Contact_us')
+data.setCell(13, 2, 'tests.SmokeTestsSuite3')
+data.setCell(13, 3, 14214);
+data.setCell(14, 0, 14)
+data.setCell(14, 1, 'Create_quote_FromProductListing')
+data.setCell(14, 2, 'tests.SmokeTestsSuite3')
+data.setCell(14, 3, 14184);
+window.suiteTableData['SmokeTestSuite']= { tableData: data, tableDiv: 'times-div-SmokeTestSuite'}
+return data;
+}
+              </script>
+              <span class="suite-total-time">Total running time: 4 minutes</span>
+              <div id="times-div-SmokeTestSuite">
+              </div> <!-- times-div-SmokeTestSuite -->
+            </div> <!-- times-div -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="reporter-SmokeTestSuite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Reporter output for SmokeTestSuite</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="ignored-methods-SmokeTestSuite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">46 ignored methods</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="ignored-class-div">
+              <span class="ignored-class-name">tests.SmokeTestsSuite3</span>
+              <div class="ignored-methods-div">
+                <span class="ignored-method-name">VerifyShippedOrdersAppeared</span>
+                <br/>
+                <span class="ignored-method-name">VerifyPAREmailReport</span>
+                <br/>
+                <span class="ignored-method-name">VerifyQuoteFieldOptionAndSelectAllReport</span>
+                <br/>
+                <span class="ignored-method-name">VerifyRandomLySelect5Fields</span>
+                <br/>
+                <span class="ignored-method-name">VerifyexportoptionandSelect</span>
+                <br/>
+                <span class="ignored-method-name">VerifyPAREditScheduleReport</span>
+                <br/>
+                <span class="ignored-method-name">NotVerifyPARRandomSelectionReport</span>
+                <br/>
+                <span class="ignored-method-name">VerifyQuoteFieldOptionAndRandomlySelectReport</span>
+                <br/>
+                <span class="ignored-method-name">SpecialOffer_PageToBeOpen</span>
+                <br/>
+                <span class="ignored-method-name">VerifyPARAllFieldsReport</span>
+                <br/>
+                <span class="ignored-method-name">Resource_ResourceAndScrollDownAndSelect</span>
+                <br/>
+                <span class="ignored-method-name">VerifyPAREditRecord</span>
+                <br/>
+                <span class="ignored-method-name">Calendar_Monthly_count_andCountNumberoftotalEndoflifeAndCompare</span>
+                <br/>
+                <span class="ignored-method-name">VerifyPARRejectedRecord</span>
+                <br/>
+                <span class="ignored-method-name">VerifyViewFullOrderHistory</span>
+                <br/>
+                <span class="ignored-method-name">VerifyBuyAgainInOrders</span>
+                <br/>
+                <span class="ignored-method-name">VerifyQuoteEditButtonReport</span>
+                <br/>
+                <span class="ignored-method-name">VerifyPARReport</span>
+                <br/>
+                <span class="ignored-method-name">VerifyInvoicesReport</span>
+                <br/>
+                <span class="ignored-method-name">VerifyQuoteExportOptionReport</span>
+                <br/>
+                <span class="ignored-method-name">Calendar_Monthly_count_andCountNumberoftotalEndoflife</span>
+                <br/>
+                <span class="ignored-method-name">VerifyViewOrdersVerifyOrders</span>
+                <br/>
+                <span class="ignored-method-name">VerifyInvoicesScheduleReport</span>
+                <br/>
+                <span class="ignored-method-name">VerifyThreeButtonAppears</span>
+                <br/>
+                <span class="ignored-method-name">VerifyPARRandomly5FieldsReport</span>
+                <br/>
+                <span class="ignored-method-name">VerifyViewOrdersButtonOnOredrs</span>
+                <br/>
+                <span class="ignored-method-name">Calendar_Monthly_count_one_Manufacturer</span>
+                <br/>
+                <span class="ignored-method-name">VerifyViewOrdersForShippedOrders</span>
+                <br/>
+                <span class="ignored-method-name">Calendar_Monthly_ViewManufacturer_Warranties_Expiring</span>
+                <br/>
+                <span class="ignored-method-name">VerifyInvoicesReportEdit</span>
+                <br/>
+                <span class="ignored-method-name">VerifyPARExportOptionReport</span>
+                <br/>
+                <span class="ignored-method-name">VerifyInvoicesRandomSelection</span>
+                <br/>
+                <span class="ignored-method-name">VerifClickOnAssestReport</span>
+                <br/>
+                <span class="ignored-method-name">VerifyQuoteReport</span>
+                <br/>
+                <span class="ignored-method-name">Brand_FeatureBrands</span>
+                <br/>
+                <span class="ignored-method-name">VerifTheSubscribeToCalandars</span>
+                <br/>
+                <span class="ignored-method-name">VerifClickOnEditButtonAndfrequencytomonthly</span>
+                <br/>
+                <span class="ignored-method-name">VerifyOrdersReport</span>
+                <br/>
+                <span class="ignored-method-name">VerifClickOnEditButton</span>
+                <br/>
+                <span class="ignored-method-name">VerifyQuoteScheduleReport</span>
+                <br/>
+                <span class="ignored-method-name">VerifyViewInvoiceAndVerify</span>
+                <br/>
+                <span class="ignored-method-name">VerifyInvoicesReportMactchesRecord</span>
+                <br/>
+                <span class="ignored-method-name">Brand_RandomlySelectBrand</span>
+                <br/>
+                <span class="ignored-method-name">VerifyPARApprovedRecord</span>
+                <br/>
+                <span class="ignored-method-name">VerifyOrderPage</span>
+                <br/>
+                <span class="ignored-method-name">VerifyViewOrdersForPast6MonthsOrders</span>
+                <br/>
+              </div> <!-- ignored-methods-div -->
+            </div> <!-- ignored-class-div -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="chronological-SmokeTestSuite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Methods in chronological order</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="chronological-class">
+              <div class="chronological-class-name">tests.SmokeTestsSuite3</div> <!-- chronological-class-name -->
+              <div class="test-method">
+                <img src="failed.png">
+                </img>
+                <span class="method-name">Request_quote(arpatech1@connection.com, Arp@tech5, http://markitplace-qa.arpatech.com/)</span>
+                <span class="method-start">0 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <img src="failed.png">
+                </img>
+                <span class="method-name">Create_quote_FromProductListing(http://markitplace-qa.arpatech.com/)</span>
+                <span class="method-start">25300 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <img src="failed.png">
+                </img>
+                <span class="method-name">PONum_clickable</span>
+                <span class="method-start">39485 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <img src="failed.png">
+                </img>
+                <span class="method-name">CreatePARAfterQUOTE</span>
+                <span class="method-start">58724 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <img src="failed.png">
+                </img>
+                <span class="method-name">VerifyEditQuote</span>
+                <span class="method-start">72949 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <img src="failed.png">
+                </img>
+                <span class="method-name">VerifymultipleproductsinQuote</span>
+                <span class="method-start">92172 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <img src="failed.png">
+                </img>
+                <span class="method-name">VerifyCreateOrderAfterQUOTE(http://markitplace-qa.arpatech.com/)</span>
+                <span class="method-start">111390 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <img src="failed.png">
+                </img>
+                <span class="method-name">VerifyCreateOrderandDeleteQuoteButton(http://markitplace-qa.arpatech.com/)</span>
+                <span class="method-start">130871 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <img src="failed.png">
+                </img>
+                <span class="method-name">Validate_download_button(http://markitplace-qa.arpatech.com/)</span>
+                <span class="method-start">145096 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <img src="failed.png">
+                </img>
+                <span class="method-name">Validate_Email_button</span>
+                <span class="method-start">164317 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <img src="failed.png">
+                </img>
+                <span class="method-name">Validate_Delete_button(http://markitplace-qa.arpatech.com/)</span>
+                <span class="method-start">188570 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <img src="failed.png">
+                </img>
+                <span class="method-name">Contact_us(http://markitplace-qa.arpatech.com/)</span>
+                <span class="method-start">207797 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <img src="failed.png">
+                </img>
+                <span class="method-name">AllProductScenario1(http://markitplace-qa.arpatech.com/)</span>
+                <span class="method-start">222012 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <img src="failed.png">
+                </img>
+                <span class="method-name">AllProductSubCategory(http://markitplace-qa.arpatech.com/)</span>
+                <span class="method-start">236232 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <img src="failed.png">
+                </img>
+                <span class="method-name">AllProductViewAllCategories(http://markitplace-qa.arpatech.com/)</span>
+                <span class="method-start">250460 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-suite after">
+                <span class="method-name">quit</span>
+                <span class="method-start">264765 ms</span>
+              </div> <!-- configuration-suite after -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+      </div> <!-- main-panel-root -->
+    </div> <!-- wrapper -->
+  </body>
+</html>

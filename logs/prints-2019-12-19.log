@@ -1,0 +1,461 @@
+11:23:40.467 [main] ERROR resources.base - Error Log of MT729 element not interactable
+  (Session info: chrome=78.0.3904.108)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ARP-260', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 78.0.3904.108, chrome: {chromedriverVersion: 78.0.3904.70 (edb9c9f3de024..., userDataDir: C:\Users\SAIMA~1.TAB\AppDat...}, goog:chromeOptions: {debuggerAddress: localhost:58915}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 8d96a0ce999c4e29d9c5d5d41214cb81
+11:23:40.480 [main] ERROR resources.base - element not interactable
+  (Session info: chrome=78.0.3904.108)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ARP-260', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 78.0.3904.108, chrome: {chromedriverVersion: 78.0.3904.70 (edb9c9f3de024..., userDataDir: C:\Users\SAIMA~1.TAB\AppDat...}, goog:chromeOptions: {debuggerAddress: localhost:58915}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 8d96a0ce999c4e29d9c5d5d41214cb81
+14:49:28.434 [main] INFO  resources.base - User has Mouse hover on My Account Icon in the header
+14:49:35.326 [main] INFO  resources.base - User has clicked on the My Profile page from My Account dropdown
+14:50:03.054 [main] INFO  resources.base - User has clicked Edit Profile button
+14:58:31.583 [main] INFO  resources.base - User has Mouse hover on My Account Icon in the header
+14:58:38.322 [main] INFO  resources.base - User has clicked on the My Profile page from My Account dropdown
+14:58:55.416 [main] INFO  resources.base - User has clicked Edit Profile button
+15:11:32.863 [main] INFO  resources.base - User has Mouse hover on My Account Icon in the header
+15:11:39.825 [main] INFO  resources.base - User has clicked on the My Profile page from My Account dropdown
+15:11:56.798 [main] INFO  resources.base - User has clicked Edit Profile button
+15:27:14.601 [main] INFO  resources.base - User has Mouse hover on My Account Icon in the header
+15:27:21.807 [main] INFO  resources.base - User has clicked on the My Profile page from My Account dropdown
+15:27:38.934 [main] INFO  resources.base - User has clicked Edit Profile button
+15:36:57.979 [main] INFO  resources.base - User has Mouse hover on My Account Icon in the header
+15:37:05.275 [main] INFO  resources.base - User has clicked on the My Profile page from My Account dropdown
+15:37:22.581 [main] INFO  resources.base - User has clicked Edit Profile button
+15:42:18.037 [main] INFO  resources.base - User has Mouse hover on My Account Icon in the header
+15:42:25.583 [main] INFO  resources.base - User has clicked on the My Profile page from My Account dropdown
+15:42:42.537 [main] INFO  resources.base - User has clicked Edit Profile button
+15:43:01.769 [main] INFO  resources.base - User has Mouse hover on My Account Icon in the header 2nd time
+15:43:07.981 [main] INFO  resources.base - User has clicked on the My Profile page from My Account dropdown 2nd time
+15:43:19.854 [main] INFO  resources.base - User has clicked Edit Profile button 2nd time
+15:43:20.254 [main] INFO  resources.base - User has selected the all products as home page
+15:43:20.348 [main] INFO  resources.base - User has Again clicked the SAve Button
+09:35:04.935 [main] INFO  resources.base - aaaaae
+09:38:38.388 [main] INFO  resources.base - aaaaae
+09:41:45.529 [main] INFO  resources.base - aaaaae
+11:06:01.014 [main] INFO  resources.base - aaaaae
+11:09:54.580 [main] INFO  resources.base - aaaaae
+11:13:20.694 [main] INFO  resources.base - aaaaae
+11:23:33.336 [main] INFO  resources.base - aaaaae
+17:05:29.703 [main] INFO  resources.MainDriverClass - Browser function starts
+17:05:29.703 [main] INFO  resources.MainDriverClass - Properties Class initialize here
+17:05:29.703 [main] INFO  resources.MainDriverClass - FileInputStream function calling and verifying here configuration file path
+17:05:29.703 [main] INFO  resources.MainDriverClass - FileInputStream loaded
+17:05:29.703 [main] INFO  resources.MainDriverClass - Get value of browser here from configuration file
+17:05:29.703 [main] INFO  resources.MainDriverClass - Get value of Url here from configuration file
+17:05:29.703 [main] INFO  resources.MainDriverClass - Get value of implicitwait here from configuration file
+17:05:29.703 [main] INFO  resources.MainDriverClass - Get value of pageloadwait here from configuration file
+17:05:29.703 [main] INFO  resources.MainDriverClass - Enters in Chrome Browser Condition
+17:05:29.703 [main] INFO  resources.MainDriverClass - Browser system property path Verified
+17:06:38.875 [main] INFO  resources.MainDriverClass - Browser function starts
+17:06:38.875 [main] INFO  resources.MainDriverClass - Properties Class initialize here
+17:06:38.875 [main] INFO  resources.MainDriverClass - FileInputStream function calling and verifying here configuration file path
+17:06:38.875 [main] INFO  resources.MainDriverClass - FileInputStream loaded
+17:06:38.875 [main] INFO  resources.MainDriverClass - Get value of browser here from configuration file
+17:06:38.875 [main] INFO  resources.MainDriverClass - Get value of Url here from configuration file
+17:06:38.875 [main] INFO  resources.MainDriverClass - Get value of implicitwait here from configuration file
+17:06:38.875 [main] INFO  resources.MainDriverClass - Get value of pageloadwait here from configuration file
+17:06:38.875 [main] INFO  resources.MainDriverClass - Browser system property path Verified
+17:06:48.614 [main] INFO  resources.MainDriverClass - Chrome Browser opens successfully
+17:06:56.063 [main] INFO  resources.MainDriverClass - Url Opened successfully in browser
+17:07:00.250 [main] INFO  resources.MainDriverClass - Login assertion verified
+17:07:00.260 [main] INFO  resources.MainDriverClass - ImplicitTime Defined In browser function
+17:07:00.267 [main] INFO  resources.MainDriverClass - Page Load time Defined In browser function
+17:07:00.267 [main] INFO  resources.MainDriverClass - *********************** Driver Function Passed ***********************
+17:07:00.345 [main] INFO  resources.MainDriverClass - Get Configuration Value Test Here
+17:07:00.347 [main] INFO  resources.MainDriverClass - MainDriverClass - There is an issue in : getConfigValue .\ConfigurationFile\configuration.properties (The system cannot find the path specified)
+17:07:00.347 [main] INFO  pageObjects.POMLoginPage - Get the Value of UrlValReturn = null
+17:07:00.659 [main] INFO  pageObjects.POMLoginPage - UserEmail enters in email textbox
+17:07:00.855 [main] INFO  pageObjects.POMLoginPage - UserPassword enters in password textbox
+17:07:17.014 [main] INFO  pageObjects.POMLoginPage - Submit button click successfully and navigate to default landing page
+17:07:17.048 [main] INFO  pageObjects.POMLoginPage - All Products page Opens after login to the application
+17:07:17.048 [main] INFO  pageObjects.POMLoginPage - *********************** Login TestCase Passed ***********************
+17:07:17.115 [main] INFO  pageObjects.POMSearchListing - SearchListing TestCase Starts
+17:07:19.422 [main] INFO  pageObjects.POMSearchListing - Printers text enters in textbox
+17:07:45.423 [main] INFO  pageObjects.POMSearchListing - Printers Search ListingPage Opens
+17:07:45.438 [main] INFO  pageObjects.POMSearchListing - Assertion Passed For SearchListing Page
+17:07:49.554 [main] INFO  pageObjects.POMSearchListing - Add To Favorites Get class = null
+17:07:49.554 [main] INFO  pageObjects.POMSearchListing - Click on cart icon
+17:08:09.099 [main] INFO  pageObjects.POMSearchListing - Cart Page Opens successfully
+17:08:09.162 [main] INFO  pageObjects.POMSearchListing - Products exist in cart so removing first
+17:08:09.311 [main] INFO  pageObjects.POMSearchListing - Click on Remove All button and modal opens successfully
+17:08:32.476 [main] INFO  pageObjects.POMSearchListing - Click on Yes Button in modal and all products deleted from cart
+17:08:32.476 [main] INFO  pageObjects.POMSearchListing - Now Navigate to Search listing from Cart Page
+17:09:05.547 [main] INFO  pageObjects.POMSearchListing - Products Listing Page Opens
+17:09:07.552 [main] INFO  pageObjects.POMSearchListing - SearchListing assert Verified
+17:09:07.552 [main] INFO  pageObjects.POMSearchListing - Click on Add To Cart Button
+17:09:30.311 [main] INFO  pageObjects.POMSearchListing - Product Added To Cart successfully
+17:10:40.380 [main] INFO  pageObjects.POMSearchListing - POMSearchListing - Exception!!! - There is some issue on search listing page while loading, add to cart or add to favorite the product and can be found on page: POMSearchListing - no such element: Unable to locate element: {"method":"xpath","selector":"(//div[@class='modal-content']/button[@title='Close (Esc)'])[3]"}
+  (Session info: chrome=78.0.3904.108)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ARP-260', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 78.0.3904.108, chrome: {chromedriverVersion: 78.0.3904.70 (edb9c9f3de024..., userDataDir: C:\Users\SAIMA~1.TAB\AppDat...}, goog:chromeOptions: {debuggerAddress: localhost:53896}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 7c52e827d2069af92aa9bf4cca2a1692
+*** Element info: {Using=xpath, value=(//div[@class='modal-content']/button[@title='Close (Esc)'])[3]}
+17:10:42.386 [main] INFO  pageObjects.POMProductDetail - PDP TestCase starts here
+17:11:52.434 [main] INFO  pageObjects.POMProductDetail - POMProductDetail - Exception!!! - Must have navigation issue to PDP page no such element: Unable to locate element: {"method":"xpath","selector":"(//div[@class='product-list-grid clearfix print-product-list grid']//a[@class='image-link'])[1]"}
+  (Session info: chrome=78.0.3904.108)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ARP-260', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 78.0.3904.108, chrome: {chromedriverVersion: 78.0.3904.70 (edb9c9f3de024..., userDataDir: C:\Users\SAIMA~1.TAB\AppDat...}, goog:chromeOptions: {debuggerAddress: localhost:53896}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 7c52e827d2069af92aa9bf4cca2a1692
+*** Element info: {Using=xpath, value=(//div[@class='product-list-grid clearfix print-product-list grid']//a[@class='image-link'])[1]}
+17:11:54.443 [main] INFO  pageObjects.POMProductDetail - PDP Email TestCase starts here
+17:15:36.095 [main] INFO  pageObjects.POMProductDetail - Email POP Up Opens Successfully
+17:16:46.145 [main] INFO  pageObjects.POMProductDetail - POMProductDetail - Exception!!! - Must have navigation issue to PDP page no such element: Unable to locate element: {"method":"css selector","selector":"#email_addresses"}
+  (Session info: chrome=78.0.3904.108)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ARP-260', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 78.0.3904.108, chrome: {chromedriverVersion: 78.0.3904.70 (edb9c9f3de024..., userDataDir: C:\Users\SAIMA~1.TAB\AppDat...}, goog:chromeOptions: {debuggerAddress: localhost:53896}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 7c52e827d2069af92aa9bf4cca2a1692
+*** Element info: {Using=id, value=email_addresses}
+17:16:46.177 [main] INFO  pageObjects.POMFavoritesPage - Favorites TestCase Starts Here
+17:17:13.861 [main] INFO  pageObjects.POMFavoritesPage - Favorites page opens successfully
+17:17:13.877 [main] INFO  pageObjects.POMFavoritesPage - Favorites assertion passed successfully
+17:17:18.136 [main] INFO  pageObjects.POMFavoritesPage - SelectAll checkbox select all favorites products on the page
+17:17:38.321 [main] INFO  pageObjects.POMFavoritesPage - Products added to cart
+17:18:46.749 [main] INFO  pageObjects.POMFavoritesPage - POMFavoritesPage - Exception!!! - There must be some issue on favorites page while doing add to cartCannot locate an element using xpath=(//button[@title='Close (Esc)'])[5]
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ARP-260', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: driver.version: RemoteWebDriver
+17:18:46.764 [main] INFO  pageObjects.POMStandardListing - Standard Listing testcase starts
+15:30:19.734 [main] INFO  resources.base - User Have Successfully Login To The Home Page
+15:30:25.004 [main] INFO  resources.base - User Have Successfully reached the favorites Page
+15:30:48.119 [main] INFO  resources.base - user is searching printer using the search textbox
+15:30:48.143 [main] INFO  resources.base - User Have Successfully reached the printer search listing page
+15:31:03.283 [main] INFO  resources.base - Search result data is Appearing on the Search Result Page
+15:31:17.633 [main] INFO  resources.base - User Have Successfully reached the PDP Page
+15:31:55.387 [main] INFO  resources.base - Recently Viewed Page is Opened
+15:32:02.555 [main] INFO  resources.base - User has clicked the Logo from the footer of the page
+15:32:02.651 [main] INFO  resources.base - User Have reached the Home Page clicking on the footer Logo
+15:32:09.190 [main] INFO  resources.base - User has clicked on the My Profile page from My Account dropdown
+15:32:09.221 [main] INFO  resources.base - User has clicked on the My Profile page from My Account dropdown
+15:32:16.775 [main] INFO  resources.base - User has clicked on the My Profile page from My Account dropdown
+15:32:36.250 [main] INFO  resources.base - User has clicked on the Standard Catalog Navigation button from header
+15:32:36.328 [main] INFO  resources.base - User Have reached the Standard Catalog Page
+15:32:57.373 [main] ERROR resources.base - No standard Product found to click
+15:32:57.373 [main] ERROR resources.base - expected [HP Officejet Pro 9010 All-in-One - Multifunction printer - MarkITplace] but found [Apple Smart - Keyboard and folio case - MarkITplace]
+15:33:03.081 [main] INFO  resources.base - User has clicked on the All Product Nevigation button from the header
+15:33:03.103 [main] INFO  resources.base - User Have reached the All Product Page
+15:33:11.774 [main] INFO  resources.base - User has clicked on Audio Cables Category From All Products Page
+15:33:11.843 [main] INFO  resources.base - User Have reached the Audio Cables Category Page
+15:33:20.682 [main] INFO  resources.base - User has clicked on Resouces link from the header
+15:33:20.841 [main] INFO  resources.base - User Have reached the Resources Page
+15:33:35.678 [main] INFO  resources.base - User has clicked on Special Offer Link from the header
+15:33:35.711 [main] INFO  resources.base - User Have reached the Special Offer Page
+15:33:48.403 [main] INFO  resources.base - User has clicked on Cart Icon from the header
+15:33:48.419 [main] INFO  resources.base - User Have reached the Shopping Cart Page
+15:34:42.759 [main] INFO  resources.base - element not interactable
+  (Session info: chrome=78.0.3904.108)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ARP-260', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 78.0.3904.108, chrome: {chromedriverVersion: 78.0.3904.70 (edb9c9f3de024..., userDataDir: C:\Users\SAIMA~1.TAB\AppDat...}, goog:chromeOptions: {debuggerAddress: localhost:52170}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 0d520442bfc05962fcda84b5d2af503d
+15:34:47.789 [main] INFO  resources.base - User have reached the order confirmation page after placing the order
+15:34:54.513 [main] INFO  resources.base - User has clicked the Logo from the header of the page
+15:35:04.559 [main] INFO  resources.base - User Have reached the Home Page clicking on the Header Logo
+15:35:11.873 [main] INFO  resources.base - User has clicked the Logo from the footer of the page
+15:35:11.884 [main] INFO  resources.base - User Have reached the Home Page clicking on the footer Logo
+15:35:31.149 [main] INFO  resources.base - User has clicked on the Standard Catalog Link from the footer of the page
+15:35:41.219 [main] INFO  resources.base - User Have reached the Standard Product page after clicking on the Standard Catalog Link from the footer of the page
+15:35:46.853 [main] INFO  resources.base - User has clicked on the All product Link from the footer of the page
+15:35:56.876 [main] INFO  resources.base - User Have reached the All Product page after clicking on the Standard Catalog Link from the footer of the page
+15:36:05.986 [main] INFO  resources.base - User has clicked on the resources  Link from the footer of the page
+15:36:21.020 [main] INFO  resources.base - User Have reached the resources page after clicking on the resources Link from the footer of the page
+15:36:30.191 [main] INFO  resources.base - User has clicked on the Special offer Link from the footer of the page
+15:36:40.209 [main] INFO  resources.base - User Have reached the Special offer after clicking on the Special offer Link from the footer of the page
+15:36:47.049 [main] INFO  resources.base - User has clicked on the Special offer Link from the footer of the page
+15:36:57.089 [main] INFO  resources.base - User Have reached the Favorites after clicking on the Favorites Link from the footer of the page
+15:37:11.154 [main] INFO  resources.base - User has clicked on the Track button from the header of the page
+15:37:11.452 [main] INFO  resources.base - User have reached the Track page after clicking on the Track button from the header of the page
+15:37:15.842 [main] INFO  resources.base - User has clicked on the order button from the header of the page
+15:37:25.881 [main] INFO  resources.base - User have reached the Order page after clicking on the Order button from the header of the page
+15:37:42.842 [main] INFO  resources.base - User has clicked on the Calendar button from the header of the page
+15:37:42.904 [main] INFO  resources.base - User have reached the  Calendar page after clicking on the Calendar button from the header of the page
+15:38:12.646 [main] INFO  resources.base - User has clicked on the Saved Report icon from the header of the page
+15:38:12.680 [main] INFO  resources.base - User have reached the  Saved Report page after clicking on the Saved Report icon from the header of the page
+15:38:18.209 [main] INFO  resources.base - user is searching printer using the search textbox
+15:39:08.453 [main] INFO  resources.base - User Have Successfully reached the Compare page
+15:14:05.605 [main] INFO  resources.base - User Have Successfully Login To The Home Page
+15:14:11.360 [main] INFO  resources.base - User Have Successfully reached the favorites Page
+15:14:41.289 [main] INFO  resources.base - user is searching printer using the search textbox
+15:14:41.303 [main] INFO  resources.base - User Have Successfully reached the printer search listing page
+15:14:56.415 [main] INFO  resources.base - Search result data is Appearing on the Search Result Page
+15:15:12.220 [main] INFO  resources.base - User Have Successfully reached the PDP Page
+15:15:51.877 [main] INFO  resources.base - User has clicked the Logo from the footer of the page
+15:15:51.931 [main] INFO  resources.base - User Have reached the Home Page clicking on the footer Logo
+15:15:58.319 [main] INFO  resources.base - User has clicked on the My Profile page from My Account dropdown
+15:15:58.345 [main] INFO  resources.base - User has clicked on the My Profile page from My Account dropdown
+15:16:06.440 [main] INFO  resources.base - User has clicked on the My Profile page from My Account dropdown
+15:16:09.663 [main] INFO  resources.base - User has clicked the Logo from the header of the page
+15:16:09.678 [main] ERROR resources.base - User not able to reach home clicking on the header logo
+15:16:09.678 [main] ERROR resources.base - expected [Shop - MarkITplace] but found [Shipping Address - MarkITplace]
+15:16:09.966 [main] INFO  resources.base - User has clicked on the Standard Catalog Navigation button from header
+15:16:09.987 [main] ERROR resources.base - User have not reached the Standard Catalog Page after clicking on the Standard Catalog Header button
+15:16:09.988 [main] ERROR resources.base - expected [Standard Products - MarkITplace] but found [Shipping Address - MarkITplace]
+15:16:31.419 [main] INFO  resources.base - User has clicked on the All Product Nevigation button from the header
+15:16:31.492 [main] ERROR resources.base - User have not reached the All Products Page after clicking on the All Product Nevigation button from the header
+15:16:31.492 [main] ERROR resources.base - expected [All Products - MarkITplace] but found [Shipping Address - MarkITplace]
+15:16:41.721 [main] INFO  resources.base - User has clicked on Resouces link from the header
+15:16:41.735 [main] ERROR resources.base - User have not reached the Resources Page after clicking resources link from the header
+15:16:41.736 [main] ERROR resources.base - expected [Resources - MarkITplace] but found [Shipping Address - MarkITplace]
+15:16:51.965 [main] INFO  resources.base - User has clicked on Special Offer Link from the header
+15:16:51.971 [main] ERROR resources.base - User have not reached the Special Offer Page after clicking Special Offer link from the header
+15:16:51.971 [main] ERROR resources.base - expected [Special Offers - MarkITplace] but found [Shipping Address - MarkITplace]
+15:16:57.146 [main] INFO  resources.base - User has clicked on Cart Icon from the header
+15:16:57.169 [main] ERROR resources.base - User have not reached the Shopping Cart Page after clicking Cart Icon from the header
+15:16:57.169 [main] ERROR resources.base - expected [Cart - MarkITplace] but found [Shipping Address - MarkITplace]
+15:17:07.331 [main] INFO  resources.base - User has clicked the Logo from the header of the page
+15:17:17.342 [main] ERROR resources.base - User not able to reach home clicking on the header logo
+15:17:17.342 [main] ERROR resources.base - expected [Shop - MarkITplace] but found [Shipping Address - MarkITplace]
+15:17:17.611 [main] INFO  resources.base - User has clicked the Logo from the footer of the page
+15:17:17.620 [main] ERROR resources.base - User not able to reach home clicking on the footer logo
+15:17:17.621 [main] ERROR resources.base - expected [Shop - MarkITplace] but found [Shipping Address - MarkITplace]
+15:17:17.926 [main] INFO  resources.base - User has clicked on the Standard Catalog Link from the footer of the page
+15:17:27.938 [main] ERROR resources.base - User have not reached the Standard Product page after clicking on the Standard Catalog Link from the footer of the page
+15:17:27.938 [main] ERROR resources.base - expected [Standard Products - MarkITplace] but found [Shipping Address - MarkITplace]
+15:17:28.130 [main] INFO  resources.base - User has clicked on the Track button from the header of the page
+15:17:28.150 [main] ERROR resources.base - User have not reached the Track page after clicking on the Track button from the header of the page
+15:17:28.150 [main] ERROR resources.base - expected [Track Dashboard - MarkITplace] but found [Shipping Address - MarkITplace]
+15:17:28.415 [main] INFO  resources.base - User has clicked on the order button from the header of the page
+15:17:38.424 [main] ERROR resources.base - User have not reached the order page after clicking on the Order button from the header of the page
+15:17:38.425 [main] ERROR resources.base - expected [Orders - MarkITplace] but found [Shipping Address - MarkITplace]
+15:17:41.853 [main] INFO  resources.base - User has clicked on the Calendar button from the header of the page
+15:17:41.869 [main] ERROR resources.base - User have not reached the Calendar page after clicking on the Calendar button from the header of the page
+15:17:41.869 [main] ERROR resources.base - expected [Calendar Monthly View - MarkITplace] but found [Shipping Address - MarkITplace]
+15:17:55.090 [main] INFO  resources.base - user is searching printer using the search textbox
+15:18:15.149 [main] INFO  resources.base - Compare Page not reached
+15:28:39.846 [main] INFO  resources.base - User Have Successfully Login To The Home Page
+15:28:45.162 [main] INFO  resources.base - User Have Successfully reached the favorites Page
+15:29:08.330 [main] INFO  resources.base - user is searching printer using the search textbox
+15:29:08.349 [main] INFO  resources.base - User Have Successfully reached the printer search listing page
+15:29:23.473 [main] INFO  resources.base - Search result data is Appearing on the Search Result Page
+15:29:38.295 [main] INFO  resources.base - User Have Successfully reached the PDP Page
+15:30:19.471 [main] INFO  resources.base - Recently Viewed Page is Opened
+15:30:26.291 [main] INFO  resources.base - User has clicked the Logo from the footer of the page
+15:30:26.301 [main] INFO  resources.base - User Have reached the Home Page clicking on the footer Logo
+15:30:32.594 [main] INFO  resources.base - User has clicked on the My Profile page from My Account dropdown
+15:30:32.660 [main] INFO  resources.base - User has clicked on the My Profile page from My Account dropdown
+15:30:39.846 [main] INFO  resources.base - User has clicked on the My Profile page from My Account dropdown
+15:30:43.084 [main] INFO  resources.base - User has clicked the Logo from the header of the page
+15:30:43.096 [main] ERROR resources.base - User not able to reach home clicking on the header logo
+15:30:43.097 [main] ERROR resources.base - expected [Shop - MarkITplace] but found [Shipping Address - MarkITplace]
+15:30:43.307 [main] INFO  resources.base - User has clicked on the Standard Catalog Navigation button from header
+15:30:43.319 [main] ERROR resources.base - User have not reached the Standard Catalog Page after clicking on the Standard Catalog Header button
+15:30:43.319 [main] ERROR resources.base - expected [Standard Products - MarkITplace] but found [Shipping Address - MarkITplace]
+15:30:59.646 [main] INFO  resources.base - User has clicked on the All Product Nevigation button from the header
+15:30:59.666 [main] ERROR resources.base - User have not reached the All Products Page after clicking on the All Product Nevigation button from the header
+15:30:59.667 [main] ERROR resources.base - expected [All Products - MarkITplace] but found [Shipping Address - MarkITplace]
+15:31:09.949 [main] INFO  resources.base - User has clicked on Resouces link from the header
+15:31:09.962 [main] ERROR resources.base - User have not reached the Resources Page after clicking resources link from the header
+15:31:09.962 [main] ERROR resources.base - expected [Resources - MarkITplace] but found [Shipping Address - MarkITplace]
+15:31:20.248 [main] INFO  resources.base - User has clicked on Special Offer Link from the header
+15:31:20.256 [main] ERROR resources.base - User have not reached the Special Offer Page after clicking Special Offer link from the header
+15:31:20.256 [main] ERROR resources.base - expected [Special Offers - MarkITplace] but found [Shipping Address - MarkITplace]
+15:31:25.428 [main] INFO  resources.base - User has clicked on Cart Icon from the header
+15:31:25.436 [main] ERROR resources.base - User have not reached the Shopping Cart Page after clicking Cart Icon from the header
+15:31:25.436 [main] ERROR resources.base - expected [Cart - MarkITplace] but found [Shipping Address - MarkITplace]
+15:33:14.811 [main] INFO  resources.base - User Have Successfully Login To The Home Page
+15:33:20.679 [main] INFO  resources.base - User Have Successfully reached the favorites Page
+15:33:48.001 [main] INFO  resources.base - user is searching printer using the search textbox
+15:33:48.030 [main] INFO  resources.base - User Have Successfully reached the printer search listing page
+15:34:03.167 [main] INFO  resources.base - Search result data is Appearing on the Search Result Page
+15:34:18.811 [main] INFO  resources.base - User Have Successfully reached the PDP Page
+15:34:58.639 [main] INFO  resources.base - Recently Viewed Page is Opened
+15:35:04.969 [main] INFO  resources.base - User has clicked the Logo from the footer of the page
+15:35:05.136 [main] INFO  resources.base - User Have reached the Home Page clicking on the footer Logo
+15:35:11.794 [main] INFO  resources.base - User has clicked on the My Profile page from My Account dropdown
+15:35:11.812 [main] INFO  resources.base - User has clicked on the My Profile page from My Account dropdown
+15:35:19.249 [main] INFO  resources.base - User has clicked on the My Profile page from My Account dropdown
+15:35:27.564 [main] INFO  resources.base - User has clicked the Logo from the header of the page
+15:35:27.574 [main] ERROR resources.base - User not able to reach home clicking on the header logo
+15:35:27.575 [main] ERROR resources.base - expected [Shop - MarkITplace] but found [Shipping Address - MarkITplace]
+15:35:27.741 [main] INFO  resources.base - User has clicked on the Standard Catalog Navigation button from header
+15:35:27.751 [main] ERROR resources.base - User have not reached the Standard Catalog Page after clicking on the Standard Catalog Header button
+15:35:27.751 [main] ERROR resources.base - expected [Standard Products - MarkITplace] but found [Shipping Address - MarkITplace]
+15:35:44.125 [main] INFO  resources.base - User has clicked on the All Product Nevigation button from the header
+15:35:44.142 [main] ERROR resources.base - User have not reached the All Products Page after clicking on the All Product Nevigation button from the header
+15:35:44.142 [main] ERROR resources.base - expected [All Products - MarkITplace] but found [Shipping Address - MarkITplace]
+15:39:42.862 [main] INFO  resources.base - User Have Successfully Login To The Home Page
+15:39:59.900 [main] INFO  resources.base - User has clicked the Logo from the header of the page
+15:39:59.918 [main] INFO  resources.base - User Have reached the Home Page clicking on the Header Logo
+15:40:23.153 [main] INFO  resources.base - User has clicked on the Standard Catalog Navigation button from header
+15:40:23.166 [main] INFO  resources.base - User Have reached the Standard Catalog Page
+15:40:59.215 [main] INFO  resources.base - User has clicked on the All Product Nevigation button from the header
+15:40:59.228 [main] ERROR resources.base - User have not reached the All Products Page after clicking on the All Product Nevigation button from the header
+15:40:59.228 [main] ERROR resources.base - expected [All Products - MarkITplace] but found [Apple Smart - Keyboard and folio case - MarkITplace]
+15:43:40.236 [main] INFO  resources.base - User Have Successfully Login To The Home Page
+15:43:54.744 [main] INFO  resources.base - User has clicked the Logo from the header of the page
+15:43:54.770 [main] INFO  resources.base - User Have reached the Home Page clicking on the Header Logo
+15:44:18.523 [main] INFO  resources.base - User has clicked on the Standard Catalog Navigation button from header
+15:44:18.557 [main] INFO  resources.base - User Have reached the Standard Catalog Page
+15:44:49.583 [main] INFO  resources.base - User has clicked on the All Product Nevigation button from the header
+15:44:49.619 [main] INFO  resources.base - User Have reached the All Product Page
+15:45:17.331 [main] INFO  resources.base - User has clicked on Audio Cables Category From All Products Page
+15:45:17.382 [main] INFO  resources.base - User Have reached the Audio Cables Category Page
+15:45:38.518 [main] INFO  resources.base - User has clicked on Resouces link from the header
+15:45:38.576 [main] INFO  resources.base - User Have reached the Resources Page
+15:45:48.755 [main] INFO  resources.base - User has clicked on Special Offer Link from the header
+15:45:48.807 [main] INFO  resources.base - User Have reached the Special Offer Page
+15:46:01.930 [main] INFO  resources.base - User has clicked on Cart Icon from the header
+15:46:01.968 [main] INFO  resources.base - User Have reached the Shopping Cart Page
+15:46:57.475 [main] INFO  resources.base - element not interactable
+  (Session info: chrome=78.0.3904.108)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ARP-260', ip: '10.0.75.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 78.0.3904.108, chrome: {chromedriverVersion: 78.0.3904.70 (edb9c9f3de024..., userDataDir: C:\Users\SAIMA~1.TAB\AppDat...}, goog:chromeOptions: {debuggerAddress: localhost:60280}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: cea52180d288e581eb2d94470f26344b
+15:47:02.484 [main] INFO  resources.base - User have reached the order confirmation page after placing the order
+15:47:11.626 [main] INFO  resources.base - User has clicked the Logo from the header of the page
+15:47:21.636 [main] INFO  resources.base - User Have reached the Home Page clicking on the Header Logo
+15:47:30.042 [main] INFO  resources.base - User has clicked the Logo from the footer of the page
+15:47:30.056 [main] INFO  resources.base - User Have reached the Home Page clicking on the footer Logo
+15:47:49.558 [main] INFO  resources.base - User has clicked on the Standard Catalog Link from the footer of the page
+15:47:59.648 [main] INFO  resources.base - User Have reached the Standard Product page after clicking on the Standard Catalog Link from the footer of the page
+15:48:06.209 [main] INFO  resources.base - User has clicked on the All product Link from the footer of the page
+15:48:16.225 [main] INFO  resources.base - User Have reached the All Product page after clicking on the Standard Catalog Link from the footer of the page
+15:48:27.110 [main] INFO  resources.base - User has clicked on the resources  Link from the footer of the page
+15:48:42.203 [main] INFO  resources.base - User Have reached the resources page after clicking on the resources Link from the footer of the page
+15:48:53.515 [main] INFO  resources.base - User has clicked on the Special offer Link from the footer of the page
+15:49:03.550 [main] INFO  resources.base - User Have reached the Special offer after clicking on the Special offer Link from the footer of the page
+15:49:14.087 [main] INFO  resources.base - User has clicked on the Special offer Link from the footer of the page
+15:49:24.099 [main] INFO  resources.base - User Have reached the Favorites after clicking on the Favorites Link from the footer of the page
+15:49:31.802 [main] INFO  resources.base - User has clicked on the Track button from the header of the page
+15:49:32.197 [main] INFO  resources.base - User have reached the Track page after clicking on the Track button from the header of the page
+15:49:37.044 [main] INFO  resources.base - User has clicked on the order button from the header of the page
+15:49:47.066 [main] INFO  resources.base - User have reached the Order page after clicking on the Order button from the header of the page
+15:50:01.390 [main] INFO  resources.base - User has clicked on the Calendar button from the header of the page
+15:50:01.418 [main] INFO  resources.base - User have reached the  Calendar page after clicking on the Calendar button from the header of the page
+15:50:39.609 [main] INFO  resources.base - User has clicked on the Saved Report icon from the header of the page
+15:50:39.635 [main] INFO  resources.base - User have reached the  Saved Report page after clicking on the Saved Report icon from the header of the page
+15:50:45.071 [main] INFO  resources.base - user is searching printer using the search textbox
+15:51:35.503 [main] INFO  resources.base - User Have Successfully reached the Compare page
+16:22:59.466 [main] INFO  resources.base - User Have Successfully Login To The Home Page
+16:23:04.672 [main] INFO  resources.base - User Have Successfully reached the favorites Page
+16:23:30.951 [main] INFO  resources.base - user is searching printer using the search textbox
+16:23:30.974 [main] INFO  resources.base - User Have Successfully reached the printer search listing page
+16:23:46.085 [main] INFO  resources.base - Search result data is Appearing on the Search Result Page
+16:24:01.077 [main] INFO  resources.base - User Have Successfully reached the PDP Page
+16:24:39.782 [main] INFO  resources.base - Recently Viewed Page is Opened
+16:24:46.214 [main] INFO  resources.base - User has clicked the Logo from the footer of the page
+16:24:46.458 [main] INFO  resources.base - User Have reached the Home Page clicking on the footer Logo
+16:24:52.998 [main] INFO  resources.base - User has clicked on the My Profile page from My Account dropdown
+16:24:53.047 [main] INFO  resources.base - User has clicked on the My Profile page from My Account dropdown
+16:25:00.458 [main] INFO  resources.base - User has clicked on the My Profile page from My Account dropdown
+16:25:19.405 [main] INFO  resources.base - User Have Successfully Login To The Home Page
+16:25:25.542 [main] INFO  resources.base - User Have Successfully reached the favorites Page
+16:18:59.622 [main] ERROR resources.base - Search Result not displaying
+16:18:59.625 [main] ERROR resources.base - expected [Hp Laptop - MarkITplace] but found [HP Laptop - MarkITplace]
+16:23:32.736 [main] ERROR resources.base - Search Result not displaying
+16:23:32.740 [main] ERROR resources.base - expected [Hp Laptop - MarkITplace] but found [HP Laptop - MarkITplace]
+16:28:37.484 [main] ERROR resources.base - Search Result not displaying
+16:28:37.487 [main] ERROR resources.base - expected [Hp Laptop - MarkITplace] but found [HP Laptop - MarkITplace]
+16:31:38.667 [main] ERROR resources.base - Search Result not displaying
+16:31:38.672 [main] ERROR resources.base - expected [Hp Laptop - MarkITplace] but found [HP Laptop - MarkITplace]
+16:56:11.746 [main] ERROR resources.base - Search Result not displaying
+16:56:11.750 [main] ERROR resources.base - expected [Hp Laptop - MarkITplace] but found [Shop - MarkITplace]
+17:02:44.190 [main] ERROR resources.base - Search Result not displaying
+17:02:44.197 [main] ERROR resources.base - expected [Hp Laptop - MarkITplace] but found [HP Laptop - MarkITplace]
+17:13:54.005 [main] ERROR resources.base - Search Result not displaying
+17:13:54.012 [main] ERROR resources.base - expected [Hp Laptop - MarkITplace] but found [HP Laptop - MarkITplace]
+17:18:52.301 [main] ERROR resources.base - Search Result not displaying
+17:18:52.305 [main] ERROR resources.base - expected [Hp Laptop - MarkITplace] but found [HP Laptop - MarkITplace]
+17:23:10.737 [main] ERROR resources.base - Search Result not displaying
+17:23:10.740 [main] ERROR resources.base - expected [Hp Laptop - MarkITplace] but found [HP Laptop - MarkITplace]
+17:27:43.837 [main] ERROR resources.base - Search Result not displaying
+17:27:43.840 [main] ERROR resources.base - expected [Hp Laptop - MarkITplace] but found [HP Laptop - MarkITplace]
+17:33:19.987 [main] ERROR resources.base - Search Result not displaying
+17:33:19.991 [main] ERROR resources.base - expected [Hp Laptop - MarkITplace] but found [HP Laptop - MarkITplace]
+17:38:14.226 [main] ERROR resources.base - Search Result not displaying
+17:38:14.229 [main] ERROR resources.base - expected [Hp Laptop - MarkITplace] but found [HP Laptop - MarkITplace]
+17:40:48.037 [main] ERROR resources.base - Search Result not displaying
+17:40:48.041 [main] ERROR resources.base - expected [Hp Laptop - MarkITplace] but found [HP Laptop - MarkITplace]
+17:52:49.300 [main] ERROR resources.base - Search Result not displaying
+17:52:49.304 [main] ERROR resources.base - expected [Hp Laptop - MarkITplace] but found [HP Laptop - MarkITplace]
+17:57:27.911 [main] ERROR resources.base - Search Result not displaying
+17:57:27.915 [main] ERROR resources.base - expected [Hp Laptop - MarkITplace] but found [HP Laptop - MarkITplace]
+12:16:27.719 [main] ERROR resources.base - Search Result not displaying
+12:16:27.725 [main] ERROR resources.base - expected [Hp Laptop - MarkITplace] but found [HP Laptop - MarkITplace]
+12:18:28.977 [main] ERROR resources.base - Search Result not displaying
+12:18:28.981 [main] ERROR resources.base - expected [Hp Laptop - MarkITplace] but found [HP Laptop - MarkITplace]
+12:39:19.824 [main] ERROR resources.base - Search Result not displaying
+12:39:19.830 [main] ERROR resources.base - expected [Hp Laptop - MarkITplace] but found [HP Laptop - MarkITplace]
+12:58:27.837 [main] ERROR resources.base - Search Result not displaying
+12:58:27.840 [main] ERROR resources.base - expected [Hp Laptop - MarkITplace] but found [HP Laptop - MarkITplace]
+13:06:53.759 [main] ERROR resources.base - Search Result not displaying
+13:06:53.762 [main] ERROR resources.base - expected [Hp Laptop - MarkITplace] but found [HP Laptop - MarkITplace]
+13:08:44.127 [main] ERROR resources.base - Search Result not displaying
+13:08:44.131 [main] ERROR resources.base - expected [Hp Laptop - MarkITplace] but found [HP Laptop - MarkITplace]
+13:11:16.738 [main] ERROR resources.base - Search Result not displaying
+13:11:16.741 [main] ERROR resources.base - expected [Hp Laptop - MarkITplace] but found [HP Laptop - MarkITplace]
+13:15:17.711 [main] ERROR resources.base - Search Result not displaying
+13:15:17.714 [main] ERROR resources.base - expected [Hp Laptop - MarkITplace] but found [HP Laptop - MarkITplace]
+13:18:19.565 [main] ERROR resources.base - Search Result not displaying
+13:18:19.567 [main] ERROR resources.base - expected [Hp Laptop - MarkITplace] but found [HP Laptop - MarkITplace]
+13:21:48.232 [main] ERROR resources.base - Search Result not displaying
+13:21:48.235 [main] ERROR resources.base - expected [Hp Laptop - MarkITplace] but found [Shop - MarkITplace]
+13:23:10.802 [main] ERROR resources.base - Search Result not displaying
+13:23:10.805 [main] ERROR resources.base - expected [Hp Laptop - MarkITplace] but found [HP Laptop - MarkITplace]
+13:30:13.165 [main] ERROR resources.base - Search Result not displaying
+13:30:13.167 [main] ERROR resources.base - expected [Hp Laptop - MarkITplace] but found [HP Laptop - MarkITplace]
+13:43:55.364 [main] ERROR resources.base - Search Result not displaying
+13:43:55.367 [main] ERROR resources.base - expected [Hp Laptop - MarkITplace] but found [HP Laptop - MarkITplace]
+13:48:53.788 [main] ERROR resources.base - Search Result not displaying
+13:48:53.791 [main] ERROR resources.base - expected [Hp Laptop - MarkITplace] but found [HP Laptop - MarkITplace]
+13:52:05.860 [main] ERROR resources.base - Search Result not displaying
+13:52:05.862 [main] ERROR resources.base - expected [Hp Laptop - MarkITplace] but found [HP Laptop - MarkITplace]
+13:53:20.848 [main] ERROR resources.base - PAR creation failed
+13:53:20.849 [main] ERROR resources.base - expected [PAR Confirmation - MarkITplace] but found [PAR Checkout - MarkITplace]
+13:56:35.220 [main] ERROR resources.base - Search Result not displaying
+13:56:35.223 [main] ERROR resources.base - expected [Hp Laptop - MarkITplace] but found [HP Laptop - MarkITplace]
+13:57:55.544 [main] ERROR resources.base - PAR creation failed
+13:57:55.545 [main] ERROR resources.base - expected [PAR Confirmation - MarkITplace] but found [PAR Checkout - MarkITplace]
+14:02:55.888 [main] ERROR resources.base - Search Result not displaying
+14:02:55.891 [main] ERROR resources.base - expected [Hp Laptop - MarkITplace] but found [Shop - MarkITplace]
+14:04:27.994 [main] ERROR resources.base - Search Result not displaying
+14:04:27.997 [main] ERROR resources.base - expected [Hp Laptop - MarkITplace] but found [HP Laptop - MarkITplace]
+14:09:19.564 [main] ERROR resources.base - Search Result not displaying
+14:09:19.567 [main] ERROR resources.base - expected [Hp Laptop - MarkITplace] but found [HP Laptop - MarkITplace]
+14:11:09.504 [main] ERROR resources.base - PAR creation failed
+14:11:09.504 [main] ERROR resources.base - expected [PAR Confirmation - MarkITplace] but found [PAR Checkout - MarkITplace]
+14:20:55.613 [main] ERROR resources.base - Search Result not displaying
+14:20:55.616 [main] ERROR resources.base - expected [Hp Laptop - MarkITplace] but found [HP Laptop - MarkITplace]
+14:22:32.314 [main] ERROR resources.base - Credit limit reached so PAR not successful
+14:27:31.697 [main] ERROR resources.base - Search Result not displaying
+14:27:31.699 [main] ERROR resources.base - expected [Hp Laptop - MarkITplace] but found [HP Laptop - MarkITplace]
+14:29:07.691 [main] ERROR resources.base - Credit limit reached so PAR not successful
+14:32:10.745 [main] ERROR resources.base - Search Result not displaying
+14:32:10.748 [main] ERROR resources.base - expected [Hp Laptop - MarkITplace] but found [HP Laptop - MarkITplace]
+14:33:46.289 [main] ERROR resources.base - Credit limit reached so PAR not successful
+14:38:02.451 [main] ERROR resources.base - Search Result not displaying
+14:38:02.453 [main] ERROR resources.base - expected [Hp Laptop - MarkITplace] but found [HP Laptop - MarkITplace]
+14:39:38.344 [main] ERROR resources.base - Credit limit reached so PAR not successful
+14:44:13.090 [main] ERROR resources.base - Search Result not displaying
+14:44:13.094 [main] ERROR resources.base - expected [Hp Laptop - MarkITplace] but found [HP Laptop - MarkITplace]
+14:45:48.322 [main] ERROR resources.base - Credit limit reached so PAR not successful
+14:48:37.894 [main] ERROR resources.base - Search Result not displaying
+14:48:37.896 [main] ERROR resources.base - expected [Hp Laptop - MarkITplace] but found [HP Laptop - MarkITplace]
+14:50:12.685 [main] ERROR resources.base - Credit limit reached so PAR not successful
+15:07:19.834 [main] ERROR resources.base - Search Result not displaying
+15:07:19.838 [main] ERROR resources.base - expected [Hp Laptop - MarkITplace] but found [HP Laptop - MarkITplace]
+15:08:57.651 [main] ERROR resources.base - Credit limit reached so PAR not successful
+15:22:06.150 [main] INFO  resources.base - User Have Successfully Login To The Home Page
+15:26:34.664 [main] INFO  resources.base - User Have Successfully Login To The Home Page
+15:26:39.853 [main] INFO  resources.base - User Have Successfully reached the favorites Page
+15:27:08.492 [main] INFO  resources.base - user is searching printer using the search textbox
+15:27:08.507 [main] INFO  resources.base - User Have Successfully reached the printer search listing page
+15:27:23.637 [main] INFO  resources.base - Search result data is Appearing on the Search Result Page

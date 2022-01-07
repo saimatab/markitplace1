@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [SmokeTestSuite]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="resources.listeners"/>
+    <listener class-name="resources.CustomTestNGReporter"/>
+    <listener class-name="resources.ExtentReporterNG"/>
+  </listeners>
+  <test thread-count="5" name="Validate Smoke Tests(failed)">
+    <parameter name="pswd1" value="[6D.,58Nq%4{rSu"/>
+    <parameter name="pswd3" value="Arp@tech5"/>
+    <parameter name="pswd4" value="8[&lt;#,HuK"/>
+    <parameter name="pswd5" value="Y/ShFCc?(v9;STU9"/>
+    <parameter name="pswd6" value="Y/ShFCc?(v9;STU9"/>
+    <parameter name="username7" value="arpatech_ag_approver@connection.com"/>
+    <parameter name="pswd7" value="Q7#[qK~7B.MNrru@"/>
+    <parameter name="url" value="http://markitplace-qa.arpatech.com/"/>
+    <parameter name="usernme6" value="arpatech-qa@connection.com"/>
+    <parameter name="punchout" value="http://markitplace-qa.arpatech.com/auth/login?buyercookie=BUS033.LFH.20180402edit01"/>
+    <parameter name="username5" value="arpatech-qa@connection.com"/>
+    <parameter name="username4" value="ACC003CC@connection.com"/>
+    <parameter name="username3" value="arpatech1@connection.com"/>
+    <parameter name="username1" value="arpatech_ag_puchaser@connection.com"/>
+    <parameter name="CA" value="http://markitplace-qa.arpatech.com/track/comparative-analysis?accountCode=MAI005"/>
+    <classes>
+      <class name="tests.SmokeTestsSuite3">
+        <methods>
+          <include name="Validate_download_button" invocation-numbers="0"/>
+          <include name="VerifyCreateOrderAfterQUOTE" invocation-numbers="0"/>
+          <include name="VerifymultipleproductsinQuote"/>
+          <include name="AllProductSubCategory" invocation-numbers="0"/>
+          <include name="Validate_Delete_button" invocation-numbers="0"/>
+          <include name="PONum_clickable"/>
+          <include name="AllProductScenario1" invocation-numbers="0"/>
+          <include name="VerifyCreateOrderandDeleteQuoteButton" invocation-numbers="0"/>
+          <include name="AllProductViewAllCategories" invocation-numbers="0"/>
+          <include name="VerifyEditQuote"/>
+          <include name="Validate_Email_button"/>
+          <include name="Create_quote_FromProductListing" invocation-numbers="0"/>
+          <include name="quit"/>
+          <include name="Contact_us" invocation-numbers="0"/>
+          <include name="CreatePARAfterQUOTE"/>
+          <include name="Request_quote" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- tests.SmokeTestsSuite3 -->
+    </classes>
+  </test> <!-- Validate Smoke Tests(failed) -->
+</suite> <!-- Failed suite [SmokeTestSuite] -->

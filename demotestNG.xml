@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="SmokeTestSuite" >
+<listeners>
+<listener class-name="resources.listeners"/>
+	<listener class-name="resources.CustomTestNGReporter" />
+	<listener class-name="resources.ExtentReporterNG"/>
+  </listeners>
+  <test name="Validate Regression Tests" >
+<classes>
+  
+   <class name="tests.demo"/>  
+
+    </classes>
+   </test>
+</suite> <!-- Suite -->

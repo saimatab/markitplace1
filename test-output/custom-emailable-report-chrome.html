@@ -1,0 +1,115 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"><html xmlns="http://www.w3.org/1999/xhtml">  <head>    <meta http-equiv="content-type" content="application/xhtml+xml; charset=gbk" />    <title>TestNG Report</title>    <style type="text/css">table {margin-bottom:10px;border-collapse:collapse;empty-cells:show}th,td {border:1px solid #009;padding:.25em .5em}th {vertical-align:bottom}td {vertical-align:top}table a {font-weight:bold}.stripe td {background-color: #E6EBF9}.num {text-align:right}.passedodd td {background-color: #3F3}.passedeven td {background-color: #0A0}.skippedodd td {background-color: #DDD}.skippedeven td {background-color: #CCC}.failedodd td,.attn {background-color: #F33}.failedeven td,.stripe .attn {background-color: #D00}.stacktrace {white-space:pre;font-family:monospace}.totop {font-size:85%;text-align:center;border-bottom:2px solid #000}</style>  </head>  <body>    <table>      <tr><center><b>Custom TestNG Report 2021/12/28 18:01:53</b></center></tr>      <thead>        <tr>          <th>Test Name</th>          <th># Total Method</th>          <th># Passed</th>          <th># Skipped</th>          <th># Failed</th>          <th>Start Time</th>          <th>End Time</th>          <th>Execute Time (mm:hh:ss:ms)</th>          <th>Included Groups</th>          <th>Excluded Groups</th>        </tr>       </thead>        <tr><td colspan=11><center><b>SmokeTestSuite</b></center></td></tr><tr><td>Validate Smoke Tests</td><td>15</td><td bgcolor=green>12</td><td bgcolor=yellow>0</td><td bgcolor=red>3</td><td>2021/12/28 17:41:14</td><td>2021/12/28 18:01:53</td><td>0:20:1239:1239272</td><td></td><td></td></tr>    </table>    <table id="summary">      <thead>        <tr>          <th>Class</th>          <th>Method</th>          <th>Start Time</th>          <th>Execution Time (mm:hh:ss:ms)</th>          <th>Parameter</th>          <th>Reporter Message</th>          <th>Exception Message</th>        </tr>      </thead>       <tr><td colspan=7><center><b>SmokeTestSuite</b></center></td></tr><tr bgcolor=red><td colspan=7><center><b>Validate Smoke Tests - Failed </b></center></td></tr><tr bgcolor=red><td>tests.SmokeTestsSuite3</td><td>AllProductViewAllCategories</td><td>AllProduct View All Categories</td><td>2021/12/28 18:01:02</td><td>0:0:51:51169</td><td>http://markitplace-qa.arpatech.com/ </td><td></td><td>java.lang.AssertionError: Failedno such element: Unable to locate element: {"method":"xpath","selector":"//*[@class='all-products-grid clearfix']//li[2]/a[contains(text(),'Audio Cables')]"}
+  (Session info: chrome=78.0.3904.70)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ARP-435', ip: '10.10.0.22', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 78.0.3904.70, chrome: {chromedriverVersion: 78.0.3904.70 (edb9c9f3de024..., userDataDir: C:UsersAYER~1.SHUAppData...}, goog:chromeOptions: {debuggerAddress: localhost:51260}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 28b6df34eae2079b37b71144043f342d
+*** Element info: {Using=xpath, value=//*[@class='all-products-grid clearfix']//li[2]/a[contains(text(),'Audio Cables')]} expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:96)
+	at org.testng.Assert.failNotEquals(Assert.java:776)
+	at org.testng.Assert.assertTrue(Assert.java:44)
+	at tests.SmokeTestsSuite3.AllProductViewAllCategories(SmokeTestsSuite3.java:1823)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:571)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:707)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:979)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:648)
+	at org.testng.TestRunner.run(TestRunner.java:505)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1187)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1116)
+	at org.testng.TestNG.runSuites(TestNG.java:1028)
+	at org.testng.TestNG.run(TestNG.java:996)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+</td></tr><tr bgcolor=red><td>tests.SmokeTestsSuite3</td><td>AllProductSubCategory</td><td>AllProduct SubCategory Random Click</td><td>2021/12/28 18:00:18</td><td>0:0:43:43170</td><td>http://markitplace-qa.arpatech.com/ </td><td></td><td>java.lang.AssertionError: Failedno such element: Unable to locate element: {"method":"xpath","selector":"//*[@class='submenu-right']/div[@data-tertiary-nav-id='cables']//ul[1]/li[1]/a"}
+  (Session info: chrome=78.0.3904.70)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ARP-435', ip: '10.10.0.22', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 78.0.3904.70, chrome: {chromedriverVersion: 78.0.3904.70 (edb9c9f3de024..., userDataDir: C:UsersAYER~1.SHUAppData...}, goog:chromeOptions: {debuggerAddress: localhost:51260}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 28b6df34eae2079b37b71144043f342d
+*** Element info: {Using=xpath, value=//*[@class='submenu-right']/div[@data-tertiary-nav-id='cables']//ul[1]/li[1]/a} expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:96)
+	at org.testng.Assert.failNotEquals(Assert.java:776)
+	at org.testng.Assert.assertTrue(Assert.java:44)
+	at tests.SmokeTestsSuite3.AllProductSubCategory(SmokeTestsSuite3.java:1676)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:571)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:707)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:979)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:648)
+	at org.testng.TestRunner.run(TestRunner.java:505)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1187)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1116)
+	at org.testng.TestNG.runSuites(TestNG.java:1028)
+	at org.testng.TestNG.run(TestNG.java:996)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+</td></tr><tr bgcolor=red><td>tests.SmokeTestsSuite3</td><td>AllProductScenario1</td><td>click on category then click sub catergory and then select product and add to cart</td><td>2021/12/28 17:59:43</td><td>0:0:35:35099</td><td>http://markitplace-qa.arpatech.com/ </td><td></td><td>java.lang.AssertionError: Failedno such element: Unable to locate element: {"method":"xpath","selector":"//*[@class='product-list-grid clearfix print-product-list pro-list grid']/div[@data-position='2']/a"}
+  (Session info: chrome=78.0.3904.70)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ARP-435', ip: '10.10.0.22', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 78.0.3904.70, chrome: {chromedriverVersion: 78.0.3904.70 (edb9c9f3de024..., userDataDir: C:UsersAYER~1.SHUAppData...}, goog:chromeOptions: {debuggerAddress: localhost:51260}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 28b6df34eae2079b37b71144043f342d
+*** Element info: {Using=xpath, value=//*[@class='product-list-grid clearfix print-product-list pro-list grid']/div[@data-position='2']/a} expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:96)
+	at org.testng.Assert.failNotEquals(Assert.java:776)
+	at org.testng.Assert.assertTrue(Assert.java:44)
+	at tests.SmokeTestsSuite3.AllProductScenario1(SmokeTestsSuite3.java:1517)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:571)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:707)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:979)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:648)
+	at org.testng.TestRunner.run(TestRunner.java:505)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1187)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1116)
+	at org.testng.TestNG.runSuites(TestNG.java:1028)
+	at org.testng.TestNG.run(TestNG.java:996)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+</td></tr><tr bgcolor=yellow><td colspan=7><center><b>Validate Smoke Tests - Skipped </b></center></td></tr><tr bgcolor=green><td colspan=7><center><b>Validate Smoke Tests - Passed </b></center></td></tr><tr bgcolor=green><td>tests.SmokeTestsSuite3</td><td>VerifyEditQuote</td><td>create PAR after Quote is created</td><td>2021/12/28 17:46:26</td><td>0:1:109:109399</td><td></td><td></td><td></td></tr><tr bgcolor=green><td>tests.SmokeTestsSuite3</td><td>Validate_Delete_button</td><td>Validate delete button after creating quote</td><td>2021/12/28 17:57:04</td><td>0:0:59:59054</td><td>http://markitplace-qa.arpatech.com/ </td><td></td><td></td></tr><tr bgcolor=green><td>tests.SmokeTestsSuite3</td><td>VerifyCreateOrderAfterQUOTE</td><td>Verify create order after quote is created</td><td>2021/12/28 17:50:05</td><td>0:2:163:163306</td><td>http://markitplace-qa.arpatech.com/ </td><td></td><td></td></tr><tr bgcolor=green><td>tests.SmokeTestsSuite3</td><td>Validate_download_button</td><td>Validate download button after creating quote</td><td>2021/12/28 17:53:14</td><td>0:3:199:199605</td><td>http://markitplace-qa.arpatech.com/ </td><td></td><td></td></tr><tr bgcolor=green><td>tests.SmokeTestsSuite3</td><td>VerifymultipleproductsinQuote</td><td>Verify multiple products in Quote</td><td>2021/12/28 17:48:15</td><td>0:1:109:109854</td><td></td><td></td><td></td></tr><tr bgcolor=green><td>tests.SmokeTestsSuite3</td><td>Create_quote_FromProductListing</td><td>Create Quote From ProductListing</td><td>2021/12/28 17:42:41</td><td>0:2:153:153194</td><td>http://markitplace-qa.arpatech.com/ </td><td></td><td></td></tr><tr bgcolor=green><td>tests.SmokeTestsSuite3</td><td>Request_quote</td><td>Request Quote</td><td>2021/12/28 17:41:14</td><td>0:1:87:87739</td><td>arpatech1@connection.com Arp@tech5 http://markitplace-qa.arpatech.com/ </td><td></td><td></td></tr><tr bgcolor=green><td>tests.SmokeTestsSuite3</td><td>CreatePARAfterQUOTE</td><td>create PAR after Quote is created</td><td>2021/12/28 17:45:39</td><td>0:0:47:47045</td><td></td><td></td><td></td></tr><tr bgcolor=green><td>tests.SmokeTestsSuite3</td><td>PONum_clickable</td><td>PONum clickable</td><td>2021/12/28 17:45:15</td><td>0:0:24:24216</td><td></td><td></td><td></td></tr><tr bgcolor=green><td>tests.SmokeTestsSuite3</td><td>VerifyCreateOrderandDeleteQuoteButton</td><td>Verify create order and delete quote</td><td>2021/12/28 17:52:48</td><td>0:0:25:25956</td><td>http://markitplace-qa.arpatech.com/ </td><td></td><td></td></tr><tr bgcolor=green><td>tests.SmokeTestsSuite3</td><td>Validate_Email_button</td><td>Validate email button after creating quote</td><td>2021/12/28 17:56:34</td><td>0:0:30:30384</td><td></td><td></td><td></td></tr><tr bgcolor=green><td>tests.SmokeTestsSuite3</td><td>Contact_us</td><td>Contact Us</td><td>2021/12/28 17:58:03</td><td>0:1:100:100005</td><td>http://markitplace-qa.arpatech.com/ </td><td></td><td></td></tr>    </table>  </body></html>

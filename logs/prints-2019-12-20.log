@@ -1,0 +1,456 @@
+15:27:38.428 [main] INFO  resources.base - User Have Successfully reached the PDP Page
+15:27:49.681 [main] INFO  resources.base - User has clicked the Logo from the footer of the page
+15:27:49.895 [main] INFO  resources.base - User Have reached the Home Page clicking on the footer Logo
+15:27:56.643 [main] INFO  resources.base - User has clicked on the My Profile page from My Account dropdown
+15:27:56.686 [main] INFO  resources.base - User has clicked on the My Profile page from My Account dropdown
+15:28:10.619 [main] INFO  resources.base - User has clicked the Logo from the header of the page
+15:28:10.643 [main] INFO  resources.base - User Have reached the Home Page clicking on the Header Logo
+15:28:30.786 [main] INFO  resources.base - User has clicked on the Standard Catalog Navigation button from header
+15:28:30.810 [main] INFO  resources.base - User Have reached the Standard Catalog Page
+15:28:53.541 [main] INFO  resources.base - User has clicked on the All Product Nevigation button from the header
+15:28:53.562 [main] ERROR resources.base - User have not reached the All Products Page after clicking on the All Product Nevigation button from the header
+15:28:53.563 [main] ERROR resources.base - expected [All Products - MarkITplace] but found [Apple Smart - Keyboard and folio case - MarkITplace]
+15:29:05.188 [main] INFO  resources.base - User has clicked on Resouces link from the header
+15:29:05.221 [main] INFO  resources.base - User Have reached the Resources Page
+15:29:19.714 [main] INFO  resources.base - User has clicked on Special Offer Link from the header
+15:29:19.738 [main] INFO  resources.base - User Have reached the Special Offer Page
+15:29:33.698 [main] INFO  resources.base - User has clicked on Cart Icon from the header
+15:29:33.727 [main] INFO  resources.base - User Have reached the Shopping Cart Page
+15:30:06.306 [main] INFO  resources.base - User has clicked the Logo from the header of the page
+15:30:16.338 [main] INFO  resources.base - User Have reached the Home Page clicking on the Header Logo
+15:30:22.441 [main] INFO  resources.base - User has clicked the Logo from the footer of the page
+15:30:22.525 [main] INFO  resources.base - User Have reached the Home Page clicking on the footer Logo
+15:30:41.428 [main] INFO  resources.base - User has clicked on the Standard Catalog Link from the footer of the page
+15:30:51.519 [main] INFO  resources.base - User Have reached the Standard Product page after clicking on the Standard Catalog Link from the footer of the page
+15:30:51.721 [main] INFO  resources.base - User has clicked on the All product Link from the footer of the page
+15:31:01.740 [main] ERROR resources.base - User have not reached the All Product page after clicking on the Standard Catalog Link from the footer of the page
+15:31:01.740 [main] ERROR resources.base - expected [All Products - MarkITplace] but found [Standard Products - MarkITplace]
+15:31:15.842 [main] INFO  resources.base - User has clicked on the Track button from the header of the page
+15:31:16.129 [main] INFO  resources.base - User have reached the Track page after clicking on the Track button from the header of the page
+15:31:20.515 [main] INFO  resources.base - User has clicked on the order button from the header of the page
+15:31:30.552 [main] INFO  resources.base - User have reached the Order page after clicking on the Order button from the header of the page
+15:31:47.486 [main] INFO  resources.base - User has clicked on the Calendar button from the header of the page
+15:31:47.497 [main] INFO  resources.base - User have reached the  Calendar page after clicking on the Calendar button from the header of the page
+15:32:22.228 [main] INFO  resources.base - User has clicked on the Saved Report icon from the header of the page
+15:32:22.263 [main] INFO  resources.base - User have reached the  Saved Report page after clicking on the Saved Report icon from the header of the page
+15:32:27.792 [main] INFO  resources.base - user is searching printer using the search textbox
+15:33:17.791 [main] INFO  resources.base - User Have Successfully reached the Compare page
+15:42:26.876 [main] INFO  resources.base - User Have Successfully Login To The Home Page
+15:42:32.359 [main] INFO  resources.base - User Have Successfully reached the favorites Page
+15:42:51.100 [main] INFO  resources.base - user is searching printer using the search textbox
+15:42:51.123 [main] INFO  resources.base - User Have Successfully reached the printer search listing page
+15:43:06.241 [main] ERROR resources.base - Search Result data is not appearing on the page
+15:43:06.241 [main] ERROR resources.base - expected [true] but found [false]
+15:43:33.538 [main] INFO  resources.base - Recently Viewed Page is Opened
+15:48:48.801 [main] INFO  resources.base - User Have Successfully Login To The Home Page
+15:48:53.978 [main] INFO  resources.base - User Have Successfully reached the favorites Page
+15:49:20.062 [main] INFO  resources.base - user is searching printer using the search textbox
+15:49:20.083 [main] INFO  resources.base - User Have Successfully reached the printer search listing page
+15:49:35.220 [main] INFO  resources.base - Search result data is Appearing on the Search Result Page
+15:50:11.776 [main] INFO  resources.base - Recently Viewed Page is Opened
+15:52:30.284 [main] INFO  resources.base - User Have Successfully Login To The Home Page
+15:52:35.775 [main] INFO  resources.base - User Have Successfully reached the favorites Page
+15:53:01.609 [main] INFO  resources.base - user is searching printer using the search textbox
+15:53:01.651 [main] INFO  resources.base - User Have Successfully reached the printer search listing page
+15:53:16.782 [main] INFO  resources.base - Search result data is Appearing on the Search Result Page
+15:53:53.562 [main] INFO  resources.base - Recently Viewed Page is Opened
+15:58:46.597 [main] INFO  resources.base - User Have Successfully Login To The Home Page
+15:58:51.919 [main] INFO  resources.base - User Have Successfully reached the favorites Page
+15:59:20.115 [main] INFO  resources.base - user is searching printer using the search textbox
+15:59:20.147 [main] INFO  resources.base - User Have Successfully reached the printer search listing page
+15:59:35.270 [main] INFO  resources.base - Search result data is Appearing on the Search Result Page
+16:00:16.592 [main] ERROR resources.base - Recently Viewed page is not getting opened
+16:00:16.593 [main] ERROR resources.base - expected [Recently Viewed Products - MarkITplace] but found [HP Officejet Pro 9010 All-in-One - Multifunction printer - MarkITplace]
+16:00:21.711 [main] INFO  resources.base - User has clicked the Logo from the footer of the page
+16:00:21.722 [main] ERROR resources.base - User not able to reach home clicking on the footer logo
+16:00:21.722 [main] ERROR resources.base - expected [Shop - MarkITplace] but found [HP Officejet Pro 9010 All-in-One - Multifunction printer - MarkITplace]
+16:00:32.008 [main] INFO  resources.base - User has clicked on the My Profile page from My Account dropdown
+16:00:32.020 [main] ERROR resources.base - User is not able to reach the My Profile page by clicking the My profile link from my account dropdown
+16:00:32.020 [main] ERROR resources.base - expected [My Profile - MarkITplace] but found [HP Officejet Pro 9010 All-in-One - Multifunction printer - MarkITplace]
+16:00:45.222 [main] INFO  resources.base - User has clicked the Logo from the header of the page
+16:00:45.228 [main] ERROR resources.base - User not able to reach home clicking on the header logo
+16:00:45.229 [main] ERROR resources.base - expected [Shop - MarkITplace] but found [HP Officejet Pro 9010 All-in-One - Multifunction printer - MarkITplace]
+16:00:50.357 [main] INFO  resources.base - User has clicked on the Standard Catalog Navigation button from header
+16:00:50.373 [main] ERROR resources.base - User have not reached the Standard Catalog Page after clicking on the Standard Catalog Header button
+16:00:50.374 [main] ERROR resources.base - expected [Standard Products - MarkITplace] but found [HP Officejet Pro 9010 All-in-One - Multifunction printer - MarkITplace]
+16:01:06.598 [main] INFO  resources.base - User has clicked on the All Product Nevigation button from the header
+16:01:06.607 [main] ERROR resources.base - User have not reached the All Products Page after clicking on the All Product Nevigation button from the header
+16:01:06.607 [main] ERROR resources.base - expected [All Products - MarkITplace] but found [HP Officejet Pro 9010 All-in-One - Multifunction printer - MarkITplace]
+16:01:11.997 [main] INFO  resources.base - User has clicked on Resouces link from the header
+16:01:12.019 [main] ERROR resources.base - User have not reached the Resources Page after clicking resources link from the header
+16:01:12.020 [main] ERROR resources.base - expected [Resources - MarkITplace] but found [HP Officejet Pro 9010 All-in-One - Multifunction printer - MarkITplace]
+16:01:27.127 [main] INFO  resources.base - User has clicked on Special Offer Link from the header
+16:01:27.144 [main] ERROR resources.base - User have not reached the Special Offer Page after clicking Special Offer link from the header
+16:01:27.144 [main] ERROR resources.base - expected [Special Offers - MarkITplace] but found [HP Officejet Pro 9010 All-in-One - Multifunction printer - MarkITplace]
+16:04:25.667 [main] INFO  resources.base - User Have Successfully Login To The Home Page
+16:04:31.159 [main] INFO  resources.base - User Have Successfully reached the favorites Page
+16:04:54.277 [main] INFO  resources.base - user is searching printer using the search textbox
+16:04:54.313 [main] INFO  resources.base - User Have Successfully reached the printer search listing page
+16:05:09.431 [main] INFO  resources.base - Search result data is Appearing on the Search Result Page
+16:06:26.012 [main] INFO  resources.base - Recently Viewed Page is Opened
+16:06:33.192 [main] INFO  resources.base - User has clicked the Logo from the footer of the page
+16:06:33.278 [main] INFO  resources.base - User Have reached the Home Page clicking on the footer Logo
+16:06:39.701 [main] INFO  resources.base - User has clicked on the My Profile page from My Account dropdown
+16:06:39.761 [main] INFO  resources.base - User has clicked on the My Profile page from My Account dropdown
+16:06:54.094 [main] INFO  resources.base - User has clicked the Logo from the header of the page
+16:06:54.129 [main] INFO  resources.base - User Have reached the Home Page clicking on the Header Logo
+16:07:14.976 [main] INFO  resources.base - User has clicked on the Standard Catalog Navigation button from header
+16:07:14.999 [main] INFO  resources.base - User Have reached the Standard Catalog Page
+16:07:37.455 [main] INFO  resources.base - User has clicked on the All Product Nevigation button from the header
+16:07:37.478 [main] ERROR resources.base - User have not reached the All Products Page after clicking on the All Product Nevigation button from the header
+16:07:37.478 [main] ERROR resources.base - expected [All Products - MarkITplace] but found [Apple Smart - Keyboard and folio case - MarkITplace]
+16:07:47.939 [main] INFO  resources.base - User has clicked on Resouces link from the header
+16:07:47.979 [main] INFO  resources.base - User Have reached the Resources Page
+16:07:58.154 [main] INFO  resources.base - User has clicked on Special Offer Link from the header
+16:07:58.172 [main] INFO  resources.base - User Have reached the Special Offer Page
+16:11:59.100 [main] INFO  resources.base - User Have Successfully Login To The Home Page
+16:12:04.112 [main] INFO  resources.base - User Have Successfully reached the favorites Page
+16:12:30.291 [main] INFO  resources.base - user is searching printer using the search textbox
+16:12:30.317 [main] INFO  resources.base - User Have Successfully reached the printer search listing page
+16:12:45.491 [main] INFO  resources.base - Search result data is Appearing on the Search Result Page
+16:14:02.783 [main] INFO  resources.base - Recently Viewed Page is Opened
+16:14:10.155 [main] INFO  resources.base - User has clicked the Logo from the footer of the page
+16:14:10.164 [main] INFO  resources.base - User Have reached the Home Page clicking on the footer Logo
+16:14:37.419 [main] INFO  resources.base - User has clicked on the My Profile page from My Account dropdown
+16:14:37.450 [main] INFO  resources.base - User has clicked on the My Profile page from My Account dropdown
+16:14:56.324 [main] INFO  resources.base - User has clicked on the My Profile page from My Account dropdown
+16:15:12.146 [main] INFO  resources.base - User has clicked the Logo from the header of the page
+16:15:12.159 [main] INFO  resources.base - User Have reached the Home Page clicking on the Header Logo
+16:15:32.763 [main] INFO  resources.base - User has clicked on the Standard Catalog Navigation button from header
+16:15:32.811 [main] INFO  resources.base - User Have reached the Standard Catalog Page
+16:16:05.727 [main] INFO  resources.base - User has clicked on the All Product Nevigation button from the header
+16:16:05.772 [main] ERROR resources.base - User have not reached the All Products Page after clicking on the All Product Nevigation button from the header
+16:16:05.772 [main] ERROR resources.base - expected [All Products - MarkITplace] but found [Apple Smart - Keyboard and folio case - MarkITplace]
+16:16:26.587 [main] INFO  resources.base - User has clicked on Resouces link from the header
+16:16:26.638 [main] INFO  resources.base - User Have reached the Resources Page
+16:16:36.822 [main] INFO  resources.base - User has clicked on Special Offer Link from the header
+16:16:36.846 [main] INFO  resources.base - User Have reached the Special Offer Page
+16:23:01.341 [main] INFO  resources.base - User Have Successfully Login To The Home Page
+16:23:06.643 [main] INFO  resources.base - User Have Successfully reached the favorites Page
+16:23:35.142 [main] INFO  resources.base - user is searching printer using the search textbox
+16:23:35.191 [main] INFO  resources.base - User Have Successfully reached the printer search listing page
+16:23:50.324 [main] INFO  resources.base - Search result data is Appearing on the Search Result Page
+16:25:07.873 [main] INFO  resources.base - Recently Viewed Page is Opened
+16:25:15.082 [main] INFO  resources.base - User has clicked the Logo from the footer of the page
+16:25:15.091 [main] INFO  resources.base - User Have reached the Home Page clicking on the footer Logo
+16:25:42.532 [main] INFO  resources.base - User has clicked on the My Profile page from My Account dropdown
+16:25:42.555 [main] INFO  resources.base - User has clicked on the My Profile page from My Account dropdown
+16:26:01.989 [main] INFO  resources.base - User has clicked on the My Profile page from My Account dropdown
+16:26:16.881 [main] INFO  resources.base - User has clicked the Logo from the header of the page
+16:26:16.901 [main] INFO  resources.base - User Have reached the Home Page clicking on the Header Logo
+16:26:36.668 [main] INFO  resources.base - User has clicked on the Standard Catalog Navigation button from header
+16:26:36.701 [main] INFO  resources.base - User Have reached the Standard Catalog Page
+16:27:16.255 [main] INFO  resources.base - User has clicked on the All Product Nevigation button from the header
+16:27:16.276 [main] ERROR resources.base - User have not reached the All Products Page after clicking on the All Product Nevigation button from the header
+16:27:16.276 [main] ERROR resources.base - expected [All Products - MarkITplace] but found [Apple Smart - Keyboard and folio case - MarkITplace]
+16:27:37.763 [main] INFO  resources.base - User has clicked on Resouces link from the header
+16:27:37.805 [main] INFO  resources.base - User Have reached the Resources Page
+16:28:07.408 [main] INFO  resources.base - User has clicked on Special Offer Link from the header
+16:28:07.441 [main] INFO  resources.base - User Have reached the Special Offer Page
+16:28:21.861 [main] INFO  resources.base - User has clicked on Cart Icon from the header
+16:28:21.895 [main] INFO  resources.base - User Have reached the Shopping Cart Page
+16:28:54.830 [main] INFO  resources.base - User has clicked the Logo from the header of the page
+16:29:04.858 [main] INFO  resources.base - User Have reached the Home Page clicking on the Header Logo
+16:29:11.015 [main] INFO  resources.base - User has clicked the Logo from the footer of the page
+16:29:11.262 [main] INFO  resources.base - User Have reached the Home Page clicking on the footer Logo
+16:42:51.217 [main] INFO  resources.base - User Have Successfully Login To The Home Page
+16:42:56.528 [main] INFO  resources.base - User Have Successfully reached the favorites Page
+16:43:22.761 [main] INFO  resources.base - user is searching printer using the search textbox
+16:43:22.782 [main] INFO  resources.base - User Have Successfully reached the printer search listing page
+16:43:37.923 [main] INFO  resources.base - Search result data is Appearing on the Search Result Page
+16:44:54.539 [main] INFO  resources.base - Recently Viewed Page is Opened
+16:45:02.716 [main] INFO  resources.base - User has clicked the Logo from the footer of the page
+16:45:02.727 [main] INFO  resources.base - User Have reached the Home Page clicking on the footer Logo
+16:45:30.453 [main] INFO  resources.base - User has clicked on the My Profile page from My Account dropdown
+16:45:30.474 [main] INFO  resources.base - User has clicked on the My Profile page from My Account dropdown
+16:45:48.953 [main] INFO  resources.base - User has clicked on the My Profile page from My Account dropdown
+16:46:04.059 [main] INFO  resources.base - User has clicked the Logo from the header of the page
+16:46:04.072 [main] INFO  resources.base - User Have reached the Home Page clicking on the Header Logo
+16:46:24.183 [main] INFO  resources.base - User has clicked on the Standard Catalog Navigation button from header
+16:46:24.290 [main] INFO  resources.base - User Have reached the Standard Catalog Page
+16:47:09.509 [main] INFO  resources.base - User has clicked on Resouces link from the header
+16:47:09.555 [main] INFO  resources.base - User Have reached the Resources Page
+16:47:39.133 [main] INFO  resources.base - User has clicked on Special Offer Link from the header
+16:47:39.165 [main] INFO  resources.base - User Have reached the Special Offer Page
+16:47:52.348 [main] INFO  resources.base - User has clicked on Cart Icon from the header
+16:47:52.378 [main] INFO  resources.base - User Have reached the Shopping Cart Page
+16:48:51.873 [main] INFO  resources.base - element not interactable
+  (Session info: chrome=79.0.3945.79)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ARP-260', ip: '10.0.75.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 79.0.3945.79, chrome: {chromedriverVersion: 78.0.3904.70 (edb9c9f3de024..., userDataDir: C:\Users\SAIMA~1.TAB\AppDat...}, goog:chromeOptions: {debuggerAddress: localhost:61204}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 8fc9794bffca3aeb8bfcd15bb62e85dd
+16:48:56.883 [main] INFO  resources.base - User have reached the order confirmation page after placing the order
+16:49:03.671 [main] INFO  resources.base - User has clicked the Logo from the header of the page
+16:49:13.688 [main] INFO  resources.base - User Have reached the Home Page clicking on the Header Logo
+16:49:20.911 [main] INFO  resources.base - User has clicked the Logo from the footer of the page
+16:49:20.926 [main] INFO  resources.base - User Have reached the Home Page clicking on the footer Logo
+16:58:51.550 [main] INFO  resources.base - User Have Successfully Login To The Home Page
+16:59:05.464 [main] INFO  resources.base - User has clicked the Logo from the header of the page
+16:59:05.499 [main] INFO  resources.base - User Have reached the Home Page clicking on the Header Logo
+16:59:26.188 [main] INFO  resources.base - User has clicked on the Standard Catalog Navigation button from header
+16:59:26.227 [main] INFO  resources.base - User Have reached the Standard Catalog Page
+17:05:46.319 [main] INFO  resources.base - User Have Successfully Login To The Home Page
+17:06:00.600 [main] INFO  resources.base - User has clicked the Logo from the header of the page
+17:06:00.628 [main] INFO  resources.base - User Have reached the Home Page clicking on the Header Logo
+17:06:20.876 [main] INFO  resources.base - User has clicked on the Standard Catalog Navigation button from header
+17:06:20.900 [main] INFO  resources.base - User Have reached the Standard Catalog Page
+17:07:24.292 [main] INFO  resources.base - User has clicked on Audio Cables Category From All Products Page
+17:07:24.334 [main] INFO  resources.base - User Have reached the Audio Cables Category Page
+17:09:11.193 [main] INFO  resources.base - User Have Successfully Login To The Home Page
+17:09:25.655 [main] INFO  resources.base - User has clicked the Logo from the header of the page
+17:09:25.679 [main] INFO  resources.base - User Have reached the Home Page clicking on the Header Logo
+17:09:45.502 [main] INFO  resources.base - User has clicked on the Standard Catalog Navigation button from header
+17:09:45.535 [main] INFO  resources.base - User Have reached the Standard Catalog Page
+17:10:48.160 [main] INFO  resources.base - User has clicked on Audio Cables Category From All Products Page
+17:10:48.191 [main] INFO  resources.base - User Have reached the Audio Cables Category Page
+17:11:07.863 [main] INFO  resources.base - User has clicked on the Standard Catalog Link from the footer of the page
+17:11:17.946 [main] INFO  resources.base - User Have reached the Standard Product page after clicking on the Standard Catalog Link from the footer of the page
+17:11:18.112 [main] INFO  resources.base - User has clicked on the All product Link from the footer of the page
+17:11:28.123 [main] ERROR resources.base - User have not reached the All Product page after clicking on the Standard Catalog Link from the footer of the page
+17:11:28.123 [main] ERROR resources.base - expected [All Products - MarkITplace] but found [Standard Products - MarkITplace]
+17:11:42.903 [main] INFO  resources.base - User has clicked on the Track button from the header of the page
+17:11:43.253 [main] INFO  resources.base - User have reached the Track page after clicking on the Track button from the header of the page
+17:11:47.644 [main] INFO  resources.base - User has clicked on the order button from the header of the page
+17:11:57.687 [main] INFO  resources.base - User have reached the Order page after clicking on the Order button from the header of the page
+17:12:14.824 [main] INFO  resources.base - User has clicked on the Calendar button from the header of the page
+17:12:14.848 [main] INFO  resources.base - User have reached the  Calendar page after clicking on the Calendar button from the header of the page
+17:12:49.288 [main] INFO  resources.base - User has clicked on the Saved Report icon from the header of the page
+17:12:49.319 [main] INFO  resources.base - User have reached the  Saved Report page after clicking on the Saved Report icon from the header of the page
+17:12:54.804 [main] INFO  resources.base - user is searching printer using the search textbox
+17:13:44.116 [main] INFO  resources.base - User Have Successfully reached the Compare page
+17:20:14.765 [main] INFO  resources.base - User Have Successfully Login To The Home Page
+17:20:31.205 [main] INFO  resources.base - User has clicked the Logo from the header of the page
+17:20:31.221 [main] INFO  resources.base - User Have reached the Home Page clicking on the Header Logo
+17:20:51.586 [main] INFO  resources.base - User has clicked on the Standard Catalog Navigation button from header
+17:20:51.615 [main] INFO  resources.base - User Have reached the Standard Catalog Page
+17:21:55.098 [main] INFO  resources.base - User has clicked on Audio Cables Category From All Products Page
+17:21:55.141 [main] INFO  resources.base - User Have reached the Audio Cables Category Page
+17:22:15.370 [main] INFO  resources.base - User has clicked on the Standard Catalog Link from the footer of the page
+17:22:25.389 [main] INFO  resources.base - User Have reached the Standard Product page after clicking on the Standard Catalog Link from the footer of the page
+17:22:35.669 [main] INFO  resources.base - User has clicked on the All product Link from the footer of the page
+17:22:45.711 [main] ERROR resources.base - User have not reached the All Product page after clicking on the Standard Catalog Link from the footer of the page
+17:22:45.712 [main] ERROR resources.base - expected [All Products - MarkITplace] but found [Standard Products - MarkITplace]
+17:31:39.108 [main] INFO  resources.base - User Have Successfully Login To The Home Page
+17:32:13.456 [main] INFO  resources.base - User has clicked on the All product Link from the footer of the page
+17:32:23.484 [main] INFO  resources.base - User Have reached the All Product page after clicking on the Standard Catalog Link from the footer of the page
+17:32:34.437 [main] INFO  resources.base - User has clicked on the resources  Link from the footer of the page
+17:32:49.490 [main] INFO  resources.base - User Have reached the resources page after clicking on the resources Link from the footer of the page
+17:32:58.842 [main] INFO  resources.base - User has clicked on the Special offer Link from the footer of the page
+17:33:08.880 [main] INFO  resources.base - User Have reached the Special offer after clicking on the Special offer Link from the footer of the page
+17:33:16.075 [main] INFO  resources.base - User has clicked on the Special offer Link from the footer of the page
+17:33:26.105 [main] INFO  resources.base - User Have reached the Favorites after clicking on the Favorites Link from the footer of the page
+17:36:00.602 [main] INFO  resources.base - User Have Successfully Login To The Home Page
+17:36:29.071 [main] INFO  resources.base - User has clicked on the All product Link from the footer of the page
+17:36:39.085 [main] ERROR resources.base - User have not reached the All Product page after clicking on the Standard Catalog Link from the footer of the page
+17:36:39.085 [main] ERROR resources.base - expected [All Products - MarkITplace] but found [Standard Products - MarkITplace]
+17:39:30.822 [main] INFO  resources.base - User Have Successfully Login To The Home Page
+17:40:05.308 [main] INFO  resources.base - User has clicked on the All product Link from the footer of the page
+17:40:15.342 [main] INFO  resources.base - User Have reached the All Product page after clicking on the Standard Catalog Link from the footer of the page
+17:40:25.945 [main] INFO  resources.base - User has clicked on the resources  Link from the footer of the page
+17:40:40.988 [main] INFO  resources.base - User Have reached the resources page after clicking on the resources Link from the footer of the page
+17:40:50.385 [main] INFO  resources.base - User has clicked on the Special offer Link from the footer of the page
+17:41:00.432 [main] INFO  resources.base - User Have reached the Special offer after clicking on the Special offer Link from the footer of the page
+17:41:07.528 [main] INFO  resources.base - User has clicked on the Special offer Link from the footer of the page
+17:41:17.558 [main] INFO  resources.base - User Have reached the Favorites after clicking on the Favorites Link from the footer of the page
+17:42:31.838 [main] INFO  resources.base - User Have Successfully Login To The Home Page
+17:46:51.676 [main] INFO  resources.base - User Have Successfully Login To The Home Page
+17:47:58.986 [main] INFO  resources.base - aaaaae
+17:53:04.314 [main] INFO  resources.base - User Have Successfully Login To The Home Page
+17:53:09.639 [main] INFO  resources.base - User Have Successfully reached the favorites Page
+17:53:37.576 [main] INFO  resources.base - user is searching printer using the search textbox
+17:53:37.590 [main] INFO  resources.base - User Have Successfully reached the printer search listing page
+17:53:52.721 [main] INFO  resources.base - Search result data is Appearing on the Search Result Page
+17:56:23.299 [main] INFO  resources.base - User Have Successfully Login To The Home Page
+17:56:28.755 [main] INFO  resources.base - User Have Successfully reached the favorites Page
+17:56:56.337 [main] INFO  resources.base - user is searching printer using the search textbox
+17:56:56.376 [main] INFO  resources.base - User Have Successfully reached the printer search listing page
+17:57:11.501 [main] INFO  resources.base - Search result data is Appearing on the Search Result Page
+17:58:38.067 [main] INFO  resources.base - Recently Viewed Page is Opened
+17:58:45.323 [main] INFO  resources.base - User has clicked the Logo from the footer of the page
+17:58:45.333 [main] INFO  resources.base - User Have reached the Home Page clicking on the footer Logo
+17:59:13.454 [main] INFO  resources.base - User has clicked on the My Profile page from My Account dropdown
+17:59:13.474 [main] INFO  resources.base - User has clicked on the My Profile page from My Account dropdown
+17:59:32.066 [main] INFO  resources.base - User has clicked on the My Profile page from My Account dropdown
+17:59:47.530 [main] INFO  resources.base - User has clicked the Logo from the header of the page
+17:59:47.556 [main] INFO  resources.base - User Have reached the Home Page clicking on the Header Logo
+18:00:07.171 [main] INFO  resources.base - User has clicked on the Standard Catalog Navigation button from header
+18:00:07.203 [main] INFO  resources.base - User Have reached the Standard Catalog Page
+18:01:17.450 [main] INFO  resources.base - User has clicked on Audio Cables Category From All Products Page
+18:01:17.473 [main] INFO  resources.base - User Have reached the Audio Cables Category Page
+18:01:28.269 [main] INFO  resources.base - User has clicked on Resouces link from the header
+18:01:28.315 [main] INFO  resources.base - User Have reached the Resources Page
+18:01:57.433 [main] INFO  resources.base - User has clicked on Special Offer Link from the header
+18:01:57.446 [main] INFO  resources.base - User Have reached the Special Offer Page
+18:02:10.525 [main] INFO  resources.base - User has clicked on Cart Icon from the header
+18:02:10.540 [main] INFO  resources.base - User Have reached the Shopping Cart Page
+18:03:07.946 [main] INFO  resources.base - element not interactable
+  (Session info: chrome=79.0.3945.79)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ARP-260', ip: '10.0.75.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 79.0.3945.79, chrome: {chromedriverVersion: 78.0.3904.70 (edb9c9f3de024..., userDataDir: C:\Users\SAIMA~1.TAB\AppDat...}, goog:chromeOptions: {debuggerAddress: localhost:49858}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 056421bcd4ce318a9194607472b94866
+18:03:12.956 [main] INFO  resources.base - User have reached the order confirmation page after placing the order
+18:03:20.347 [main] INFO  resources.base - User has clicked the Logo from the header of the page
+18:03:30.377 [main] INFO  resources.base - User Have reached the Home Page clicking on the Header Logo
+18:03:36.832 [main] INFO  resources.base - User has clicked the Logo from the footer of the page
+18:03:36.881 [main] INFO  resources.base - User Have reached the Home Page clicking on the footer Logo
+18:04:12.037 [main] INFO  resources.base - User has clicked on the All product Link from the footer of the page
+18:04:22.073 [main] INFO  resources.base - User Have reached the All Product page after clicking on the Standard Catalog Link from the footer of the page
+18:04:31.911 [main] INFO  resources.base - User has clicked on the resources  Link from the footer of the page
+18:04:47.004 [main] INFO  resources.base - User Have reached the resources page after clicking on the resources Link from the footer of the page
+18:04:56.976 [main] INFO  resources.base - User has clicked on the Special offer Link from the footer of the page
+18:05:07.008 [main] INFO  resources.base - User Have reached the Special offer after clicking on the Special offer Link from the footer of the page
+18:05:13.188 [main] INFO  resources.base - User has clicked on the Special offer Link from the footer of the page
+18:05:23.227 [main] INFO  resources.base - User Have reached the Favorites after clicking on the Favorites Link from the footer of the page
+08:55:52.126 [main] INFO  resources.base - User Have Successfully Login To The Home Page
+08:55:57.789 [main] INFO  resources.base - User Have Successfully reached the favorites Page
+08:56:17.463 [main] INFO  resources.base - user is searching printer using the search textbox
+08:56:17.496 [main] INFO  resources.base - User Have Successfully reached the printer search listing page
+08:56:32.744 [main] ERROR resources.base - Search Result data is not appearing on the page
+08:56:32.744 [main] ERROR resources.base - expected [true] but found [false]
+08:57:04.871 [main] INFO  resources.base - Recently Viewed Page is Opened
+08:57:12.097 [main] INFO  resources.base - User has clicked the Logo from the footer of the page
+08:57:12.106 [main] INFO  resources.base - User Have reached the Home Page clicking on the footer Logo
+08:57:39.437 [main] INFO  resources.base - User has clicked on the My Profile page from My Account dropdown
+08:57:39.455 [main] INFO  resources.base - User has clicked on the My Profile page from My Account dropdown
+08:57:58.243 [main] INFO  resources.base - User has clicked on the My Profile page from My Account dropdown
+08:58:13.745 [main] INFO  resources.base - User has clicked the Logo from the header of the page
+08:58:13.774 [main] INFO  resources.base - User Have reached the Home Page clicking on the Header Logo
+08:58:34.355 [main] INFO  resources.base - User has clicked on the Standard Catalog Navigation button from header
+08:58:34.393 [main] INFO  resources.base - User Have reached the Standard Catalog Page
+08:59:49.175 [main] INFO  resources.base - User has clicked on Audio Cables Category From All Products Page
+08:59:49.216 [main] INFO  resources.base - User Have reached the Audio Cables Category Page
+09:00:00.124 [main] INFO  resources.base - User has clicked on Resouces link from the header
+09:00:00.150 [main] INFO  resources.base - User Have reached the Resources Page
+09:00:29.874 [main] INFO  resources.base - User has clicked on Special Offer Link from the header
+09:00:29.913 [main] INFO  resources.base - User Have reached the Special Offer Page
+09:00:41.793 [main] INFO  resources.base - User has clicked on Cart Icon from the header
+09:00:41.807 [main] INFO  resources.base - User Have reached the Shopping Cart Page
+09:00:59.821 [main] INFO  resources.base - User has clicked the Logo from the header of the page
+09:01:09.835 [main] INFO  resources.base - User Have reached the Home Page clicking on the Header Logo
+09:01:17.619 [main] INFO  resources.base - User has clicked the Logo from the footer of the page
+09:01:17.632 [main] INFO  resources.base - User Have reached the Home Page clicking on the footer Logo
+09:01:52.051 [main] INFO  resources.base - User has clicked on the All product Link from the footer of the page
+09:02:02.079 [main] INFO  resources.base - User Have reached the All Product page after clicking on the Standard Catalog Link from the footer of the page
+09:02:12.355 [main] INFO  resources.base - User has clicked on the resources  Link from the footer of the page
+09:02:27.505 [main] INFO  resources.base - User Have reached the resources page after clicking on the resources Link from the footer of the page
+09:02:37.080 [main] INFO  resources.base - User has clicked on the Special offer Link from the footer of the page
+09:02:47.096 [main] INFO  resources.base - User Have reached the Special offer after clicking on the Special offer Link from the footer of the page
+09:02:53.498 [main] INFO  resources.base - User has clicked on the Special offer Link from the footer of the page
+09:03:03.515 [main] INFO  resources.base - User Have reached the Favorites after clicking on the Favorites Link from the footer of the page
+09:03:17.812 [main] INFO  resources.base - User has clicked on the Track button from the header of the page
+09:03:18.197 [main] INFO  resources.base - User have reached the Track page after clicking on the Track button from the header of the page
+09:03:22.633 [main] INFO  resources.base - User has clicked on the order button from the header of the page
+09:03:33.059 [main] INFO  resources.base - User have reached the Order page after clicking on the Order button from the header of the page
+09:04:27.975 [main] INFO  resources.base - User has clicked on the Calendar button from the header of the page
+09:04:27.988 [main] ERROR resources.base - User have not reached the Calendar page after clicking on the Calendar button from the header of the page
+09:04:27.988 [main] ERROR resources.base - expected [Calendar Monthly View - MarkITplace] but found [Track Dashboard - MarkITplace]
+09:04:36.119 [main] INFO  resources.base - User has clicked on the Saved Report icon from the header of the page
+09:04:36.130 [main] ERROR resources.base - User have not reached the Saved Report page after clicking on the Saved Report icon from the header of the page
+09:04:36.130 [main] ERROR resources.base - expected [Saved Reports - MarkITplace] but found [Track Dashboard - MarkITplace]
+09:04:36.340 [main] INFO  resources.base - user is searching printer using the search textbox
+09:04:46.359 [main] INFO  resources.base - Compare Page not reached
+09:07:47.339 [main] INFO  resources.base - User Have Successfully Login To The Home Page
+09:07:52.679 [main] INFO  resources.base - User Have Successfully reached the favorites Page
+09:08:20.376 [main] INFO  resources.base - user is searching printer using the search textbox
+09:08:20.418 [main] INFO  resources.base - User Have Successfully reached the printer search listing page
+09:08:35.524 [main] INFO  resources.base - Search result data is Appearing on the Search Result Page
+09:10:11.275 [main] INFO  resources.base - Recently Viewed Page is Opened
+09:10:18.427 [main] INFO  resources.base - User has clicked the Logo from the footer of the page
+09:10:18.436 [main] INFO  resources.base - User Have reached the Home Page clicking on the footer Logo
+09:10:45.690 [main] INFO  resources.base - User has clicked on the My Profile page from My Account dropdown
+09:10:45.710 [main] INFO  resources.base - User has clicked on the My Profile page from My Account dropdown
+09:11:04.472 [main] INFO  resources.base - User has clicked on the My Profile page from My Account dropdown
+09:11:19.334 [main] INFO  resources.base - User has clicked the Logo from the header of the page
+09:11:19.367 [main] INFO  resources.base - User Have reached the Home Page clicking on the Header Logo
+09:11:39.305 [main] INFO  resources.base - User has clicked on the Standard Catalog Navigation button from header
+09:11:39.337 [main] INFO  resources.base - User Have reached the Standard Catalog Page
+09:12:41.388 [main] INFO  resources.base - User has clicked on Audio Cables Category From All Products Page
+09:12:41.410 [main] INFO  resources.base - User Have reached the Audio Cables Category Page
+09:12:52.578 [main] INFO  resources.base - User has clicked on Resouces link from the header
+09:12:52.621 [main] INFO  resources.base - User Have reached the Resources Page
+09:13:23.402 [main] INFO  resources.base - User has clicked on Special Offer Link from the header
+09:13:23.437 [main] INFO  resources.base - User Have reached the Special Offer Page
+09:13:37.185 [main] INFO  resources.base - User has clicked on Cart Icon from the header
+09:13:37.198 [main] INFO  resources.base - User Have reached the Shopping Cart Page
+09:14:34.344 [main] INFO  resources.base - element not interactable
+  (Session info: chrome=79.0.3945.88)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ARP-260', ip: '10.0.75.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 79.0.3945.88, chrome: {chromedriverVersion: 78.0.3904.70 (edb9c9f3de024..., userDataDir: C:\Users\SAIMA~1.TAB\AppDat...}, goog:chromeOptions: {debuggerAddress: localhost:52838}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 517011c564684911415235baf8f8239b
+09:14:39.390 [main] INFO  resources.base - User have reached the order confirmation page after placing the order
+09:14:47.590 [main] INFO  resources.base - User has clicked the Logo from the header of the page
+09:14:57.602 [main] INFO  resources.base - User Have reached the Home Page clicking on the Header Logo
+09:15:04.119 [main] INFO  resources.base - User has clicked the Logo from the footer of the page
+09:15:04.279 [main] INFO  resources.base - User Have reached the Home Page clicking on the footer Logo
+09:15:39.404 [main] INFO  resources.base - User has clicked on the All product Link from the footer of the page
+09:15:49.452 [main] INFO  resources.base - User Have reached the All Product page after clicking on the Standard Catalog Link from the footer of the page
+09:16:00.619 [main] INFO  resources.base - User has clicked on the resources  Link from the footer of the page
+09:16:15.764 [main] INFO  resources.base - User Have reached the resources page after clicking on the resources Link from the footer of the page
+09:16:25.790 [main] INFO  resources.base - User has clicked on the Special offer Link from the footer of the page
+09:16:35.810 [main] INFO  resources.base - User Have reached the Special offer after clicking on the Special offer Link from the footer of the page
+09:16:42.206 [main] INFO  resources.base - User has clicked on the Special offer Link from the footer of the page
+09:16:52.298 [main] INFO  resources.base - User Have reached the Favorites after clicking on the Favorites Link from the footer of the page
+09:17:00.159 [main] INFO  resources.base - User has clicked on the Track button from the header of the page
+09:17:00.588 [main] INFO  resources.base - User have reached the Track page after clicking on the Track button from the header of the page
+09:17:04.961 [main] INFO  resources.base - User has clicked on the order button from the header of the page
+09:17:14.982 [main] INFO  resources.base - User have reached the Order page after clicking on the Order button from the header of the page
+09:18:10.064 [main] INFO  resources.base - aaaaae
+09:18:54.573 [main] INFO  resources.base - User has clicked on the Saved Report icon from the header of the page
+09:18:54.617 [main] INFO  resources.base - User have reached the  Saved Report page after clicking on the Saved Report icon from the header of the page
+09:19:00.071 [main] INFO  resources.base - user is searching printer using the search textbox
+09:19:49.844 [main] INFO  resources.base - User Have Successfully reached the Compare page
+09:24:21.708 [main] INFO  resources.base - User Have Successfully Login To The Home Page
+09:24:27.194 [main] INFO  resources.base - User Have Successfully reached the favorites Page
+09:24:50.296 [main] INFO  resources.base - user is searching printer using the search textbox
+09:24:50.327 [main] INFO  resources.base - User Have Successfully reached the printer search listing page
+09:25:05.460 [main] INFO  resources.base - Search result data is Appearing on the Search Result Page
+09:26:38.562 [main] INFO  resources.base - Recently Viewed Page is Opened
+09:26:46.302 [main] INFO  resources.base - User has clicked the Logo from the footer of the page
+09:26:46.316 [main] INFO  resources.base - User Have reached the Home Page clicking on the footer Logo
+09:27:13.457 [main] INFO  resources.base - User has clicked on the My Profile page from My Account dropdown
+09:27:13.482 [main] INFO  resources.base - User has clicked on the My Profile page from My Account dropdown
+09:27:32.011 [main] INFO  resources.base - User has clicked on the My Profile page from My Account dropdown
+09:27:46.372 [main] INFO  resources.base - User has clicked the Logo from the header of the page
+09:27:46.391 [main] INFO  resources.base - User Have reached the Home Page clicking on the Header Logo
+09:28:06.248 [main] INFO  resources.base - User has clicked on the Standard Catalog Navigation button from header
+09:28:06.276 [main] INFO  resources.base - User Have reached the Standard Catalog Page
+09:29:07.679 [main] INFO  resources.base - User has clicked on Audio Cables Category From All Products Page
+09:29:07.693 [main] INFO  resources.base - User Have reached the Audio Cables Category Page
+09:29:18.923 [main] INFO  resources.base - User has clicked on Resouces link from the header
+09:29:18.983 [main] INFO  resources.base - User Have reached the Resources Page
+09:29:49.302 [main] INFO  resources.base - User has clicked on Special Offer Link from the header
+09:29:49.342 [main] INFO  resources.base - User Have reached the Special Offer Page
+09:30:02.153 [main] INFO  resources.base - User has clicked on Cart Icon from the header
+09:30:02.181 [main] INFO  resources.base - User Have reached the Shopping Cart Page
+09:30:58.141 [main] INFO  resources.base - element not interactable
+  (Session info: chrome=79.0.3945.88)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ARP-260', ip: '10.0.75.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 79.0.3945.88, chrome: {chromedriverVersion: 78.0.3904.70 (edb9c9f3de024..., userDataDir: C:\Users\SAIMA~1.TAB\AppDat...}, goog:chromeOptions: {debuggerAddress: localhost:53703}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 66d37acb84a82de9b19b8269e05e05e2
+09:31:03.152 [main] INFO  resources.base - User have reached the order confirmation page after placing the order
+09:31:09.538 [main] INFO  resources.base - User has clicked the Logo from the header of the page
+09:31:19.606 [main] INFO  resources.base - User Have reached the Home Page clicking on the Header Logo
+09:31:25.853 [main] INFO  resources.base - User has clicked the Logo from the footer of the page
+09:31:25.861 [main] INFO  resources.base - User Have reached the Home Page clicking on the footer Logo
+09:32:00.935 [main] INFO  resources.base - User has clicked on the All product Link from the footer of the page
+09:32:10.962 [main] INFO  resources.base - User Have reached the All Product page after clicking on the Standard Catalog Link from the footer of the page
+09:32:20.923 [main] INFO  resources.base - User has clicked on the resources  Link from the footer of the page
+09:32:36.023 [main] INFO  resources.base - User Have reached the resources page after clicking on the resources Link from the footer of the page
+09:32:48.055 [main] INFO  resources.base - User has clicked on the Special offer Link from the footer of the page
+09:32:58.070 [main] INFO  resources.base - User Have reached the Special offer after clicking on the Special offer Link from the footer of the page
+09:33:04.304 [main] INFO  resources.base - User has clicked on the Special offer Link from the footer of the page
+09:33:14.335 [main] INFO  resources.base - User Have reached the Favorites after clicking on the Favorites Link from the footer of the page
+09:33:23.066 [main] INFO  resources.base - User has clicked on the Track button from the header of the page
+09:33:23.441 [main] INFO  resources.base - User have reached the Track page after clicking on the Track button from the header of the page
+09:33:28.240 [main] INFO  resources.base - User has clicked on the order button from the header of the page
+09:33:38.270 [main] INFO  resources.base - User have reached the Order page after clicking on the Order button from the header of the page
+09:34:30.948 [main] INFO  resources.base - aaaaae
+09:34:59.113 [main] INFO  resources.base - User has clicked on the Calendar button from the header of the page

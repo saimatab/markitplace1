@@ -27,20 +27,14 @@
         <methods>
           <include name="Validate_download_button" invocation-numbers="0"/>
           <include name="VerifyCreateOrderAfterQUOTE" invocation-numbers="0"/>
-          <include name="VerifymultipleproductsinQuote"/>
+          <include name="Validate_Email_button"/>
           <include name="AllProductSubCategory" invocation-numbers="0"/>
-          <include name="Validate_Delete_button" invocation-numbers="0"/>
           <include name="PONum_clickable"/>
           <include name="AllProductScenario1" invocation-numbers="0"/>
-          <include name="VerifyCreateOrderandDeleteQuoteButton" invocation-numbers="0"/>
-          <include name="AllProductViewAllCategories" invocation-numbers="0"/>
-          <include name="VerifyEditQuote"/>
-          <include name="Validate_Email_button"/>
           <include name="Create_quote_FromProductListing" invocation-numbers="0"/>
           <include name="quit"/>
-          <include name="Contact_us" invocation-numbers="0"/>
+          <include name="AllProductViewAllCategories" invocation-numbers="0"/>
           <include name="CreatePARAfterQUOTE"/>
-          <include name="Request_quote" invocation-numbers="0"/>
         </methods>
       </class> <!-- tests.SmokeTestsSuite3 -->
     </classes>

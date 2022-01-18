@@ -117,8 +117,8 @@ import org.openqa.selenium.remote.DesiredCapabilities;
 	
 	public void getScreenshot(String result) throws IOException
 	{
-		//File src = ((TakesScreenshot)driver).getScreenshotAs(OutputType.FILE);
-		//FileUtils.copyFileToDirectory(src, new File("C:\\Automation-Snapshots\\"+result+" screenshot.png"));
+		File src = ((TakesScreenshot)driver).getScreenshotAs(OutputType.FILE);
+		FileUtils.copyFileToDirectory(src, new File("C:\\Automation-Snapshots\\"+result+" screenshot.png"));
 	}
 
 }

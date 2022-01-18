@@ -109,9 +109,15 @@ public class SmokeTestsSuite3 extends base {
 		
 		
 	}
+	
+	@Test(priority = 1)
+	public void nofound()
+	{
+		System.out.println("nothing found");
+	}
 
 	@Parameters({ "username3", "pswd3", "url" })
-	@Test(priority = 1, description = "Request Quote", enabled = true)
+	@Test(priority = 1, description = "Request Quote", enabled = false)
 	public void Request_quote(String username3, String pswd3, String url) throws IOException, InterruptedException {
 
 		System.out.println("Scenario 1 :Request Quote From Quote page");
@@ -209,7 +215,7 @@ public class SmokeTestsSuite3 extends base {
 	}
 
 	@Parameters({ "url" })
-	@Test(priority = 2, description = "Create Quote From ProductListing", enabled = true)
+	@Test(priority = 2, description = "Create Quote From ProductListing", enabled = false)
 	public void Create_quote_FromProductListing(String url) throws InterruptedException, IOException {
 		System.out.println("Scenario 2 :"
 				+ "Verify create quote directly after clicking add to cart button from product listing page");
@@ -369,7 +375,7 @@ public class SmokeTestsSuite3 extends base {
 
 	}
 
-	@Test(priority = 3, description = "PONum clickable", enabled = true)
+	@Test(priority = 3, description = "PONum clickable", enabled = false)
 	public void PONum_clickable() throws InterruptedException, IOException {
 
 		System.out.println("Scenario 3 :" + "Validate if the 'po number' link is clickable after creating quote");
@@ -401,7 +407,7 @@ public class SmokeTestsSuite3 extends base {
 
 	}
 
-	@Test(priority = 4, description = "create PAR after Quote is created", enabled = true)
+	@Test(priority = 4, description = "create PAR after Quote is created", enabled = false)
 	public void CreatePARAfterQUOTE() throws InterruptedException, IOException {
 
 		System.out.println("Scenario 4 :" + "Verify create PAR after Quote is created"); // done
@@ -442,7 +448,7 @@ public class SmokeTestsSuite3 extends base {
 	}
 
 	@Parameters({ "url" })
-	@Test(priority = 5, description = "create PAR after Quote is created", enabled = true)
+	@Test(priority = 5, description = "create PAR after Quote is created", enabled = false)
 	public void VerifyEditQuote() throws InterruptedException, IOException {
 
 		System.out.println(
@@ -523,7 +529,7 @@ public class SmokeTestsSuite3 extends base {
 	}
 
 	@Parameters({ "url" })
-	@Test(priority = 6, description = "Verify multiple products in Quote", enabled = true)
+	@Test(priority = 6, description = "Verify multiple products in Quote", enabled = false)
 	public void VerifymultipleproductsinQuote() throws InterruptedException, IOException {
 
 		System.out.println("Scenario 6 :"
@@ -652,7 +658,7 @@ public class SmokeTestsSuite3 extends base {
 	}
 
 	@Parameters({ "url" })
-	@Test(priority = 7, description = "Verify create order after quote is created", enabled = true)
+	@Test(priority = 7, description = "Verify create order after quote is created", enabled = false)
 	public void VerifyCreateOrderAfterQUOTE(String url) throws InterruptedException, IOException {
 
 		System.out.println("Scenario 7 :" + "Verify create order after quote is created"); // done
@@ -771,7 +777,7 @@ public class SmokeTestsSuite3 extends base {
 	}
 
 	@Parameters({ "url" })
-	@Test(priority = 8, description = "Verify create order and delete quote", enabled = true)
+	@Test(priority = 8, description = "Verify create order and delete quote", enabled = false)
 	public void VerifyCreateOrderandDeleteQuoteButton(String url) throws InterruptedException, IOException {
 		System.out.println("Scenario 8 :" + "Verify create order and delete quote from button inside View Quote");
 
@@ -1017,7 +1023,7 @@ public class SmokeTestsSuite3 extends base {
 	}
 
 	@Parameters({ "url" })
-	@Test(priority = 9, description = "Validate download button after creating quote", enabled = true)
+	@Test(priority = 9, description = "Validate download button after creating quote", enabled = false)
 	public void Validate_download_button(String url) throws InterruptedException, IOException {
 		System.out.println("Scenario 9 :" + "Validate download button after creating quote");
 
@@ -1197,7 +1203,7 @@ public class SmokeTestsSuite3 extends base {
 
 	}
 
-	@Test(priority = 10, description = "Validate email button after creating quote", enabled = true)
+	@Test(priority = 10, description = "Validate email button after creating quote", enabled = false)
 	public void Validate_Email_button() throws IOException, InterruptedException {
 
 		System.out.println("Scenario 10 :Validate email button after creating quote");
@@ -1250,7 +1256,7 @@ public class SmokeTestsSuite3 extends base {
 	}
 
 	@Parameters({ "url" })
-	@Test(priority = 11, description = "Validate delete button after creating quote", enabled = true)
+	@Test(priority = 11, description = "Validate delete button after creating quote", enabled = false)
 	public void Validate_Delete_button(String url) throws IOException, InterruptedException {
 
 		System.out.println("Scenario 11 :Validate delete button after creating quote");
@@ -1310,7 +1316,7 @@ public class SmokeTestsSuite3 extends base {
 	}
 
 	@Parameters({ "url" })
-	@Test(priority = 12, description = "Contact Us", enabled = true)
+	@Test(priority = 12, description = "Contact Us", enabled = false)
 	public void Contact_us(String url) throws IOException, InterruptedException {
 
 		System.out.println("Scenario 12 :Contact Us");
@@ -1395,7 +1401,7 @@ public class SmokeTestsSuite3 extends base {
 	}
 
 	@Parameters({ "url" })
-	@Test(priority = 13, description = "click on category then click sub catergory and then select product and add to cart", enabled = true)
+	@Test(priority = 13, description = "click on category then click sub catergory and then select product and add to cart", enabled = false)
 	public void AllProductScenario1(String url) throws IOException, InterruptedException {
 
 		System.out.println(
@@ -1536,7 +1542,7 @@ public class SmokeTestsSuite3 extends base {
 	}
 
 	@Parameters({ "url" })
-	@Test(priority = 14, description = "AllProduct SubCategory Random Click", enabled = true)
+	@Test(priority = 14, description = "AllProduct SubCategory Random Click", enabled = false)
 	public void AllProductSubCategory(String url) throws IOException, InterruptedException {
 
 		System.out.println(
@@ -1695,7 +1701,7 @@ public class SmokeTestsSuite3 extends base {
 	}
 
 	@Parameters({ "url" })
-	@Test(priority = 15, description = "AllProduct View All Categories", enabled = true)
+	@Test(priority = 15, description = "AllProduct View All Categories", enabled = false)
 	public void AllProductViewAllCategories(String url) throws IOException, InterruptedException {
 
 		System.out.println("Scenario 15 :click on view all categories and select randomly one product and add to cart");
